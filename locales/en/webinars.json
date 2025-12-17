@@ -1,0 +1,31 @@
+{
+    "title": "Expand Your Knowledge, Accelerate Your Growth.",
+    "subtitle": "Watch our on-demand webinars and video tutorials to master Ekobol's features and advanced e-commerce strategies.",
+    "watch_now": "Watch Now",
+    "webinars": {
+        "item1": {
+            "title": "Getting Started with Ekobol: Key Features",
+            "desc": "Learn the fundamentals of our platform with this comprehensive training designed for beginners."
+        },
+        "item2": {
+            "title": "Boost Sales with AI Marketing",
+            "desc": "Learn how to optimize your campaigns with Ekobol's AI-powered marketing tools."
+        },
+        "item3": {
+            "title": "Data-Driven Decisions: Deep Dive into Analytics",
+            "desc": "Learn how to extract meaningful insights from our unified analytics dashboard."
+        },
+        "item4": {
+            "title": "Trendyol and Etsy Integrations",
+            "desc": "Learn how to set up your marketplace integrations for maximum efficiency."
+        },
+        "item5": {
+            "title": "Stock Management with Automated Inventory",
+            "desc": "Learn how to prevent stockouts with Ekobol's AI-powered inventory automation."
+        },
+        "item6": {
+            "title": "AI Image Generator",
+            "desc": "Discover how to use the AI image generator to transform your product photos."
+        }
+    }
+}

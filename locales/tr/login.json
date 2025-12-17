@@ -1,0 +1,17 @@
+{
+    "welcome_back": "Tekrar Hoş Geldiniz",
+    "login_subtitle": "Hesabınıza giriş yapın",
+    "email_label": "E-posta Adresi",
+    "email_placeholder": "ornek@sirket.com",
+    "password_label": "Şifre",
+    "forgot_password": "Şifremi Unuttum?",
+    "login_button": "Giriş Yap",
+    "demo_button": "Canlı Demo'yu İncele",
+    "no_account_question": "Hesabınız yok mu?",
+    "signup_link": "Hemen Kaydolun",
+    "or": "veya",
+    "email_required": "E-posta adresi gereklidir",
+    "email_invalid": "Geçersiz e-posta adresi",
+    "password_required": "Şifre gereklidir",
+    "password_min_length": "Şifre en az 6 karakter olmalıdır"
+}

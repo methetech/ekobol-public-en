@@ -1,0 +1,52 @@
+{
+    "title": "Orders",
+    "subtitle": "Manage orders from all channels in one place.",
+    "filters": {
+        "all_channels": "All Channels",
+        "all_statuses": "All Statuses",
+        "search_placeholder": "Search Order ID or Customer..."
+    },
+    "table": {
+        "order_no": "Order No",
+        "customer": "Customer",
+        "date": "Date",
+        "total": "Total",
+        "channel": "Channel",
+        "status": "Status",
+        "actions": "Actions"
+    },
+    "status": {
+        "pending": "Pending",
+        "shipped": "Shipped",
+        "delivered": "Delivered",
+        "cancelled": "Cancelled"
+    },
+    "actions": {
+        "view": "View",
+        "edit": "Edit",
+        "print_invoice": "Print Invoice",
+        "mark_shipped": "Mark as Shipped"
+    },
+    "slide_over": {
+        "title": "Order Details",
+        "customer_info": "Customer Info",
+        "order_items": "Order Items",
+        "shipping_address": "Shipping Address",
+        "update_status": "Update Status"
+    },
+    "detail": {
+        "order_id": "Order #{{id}}",
+        "page_desc": "View order info, customer details, and shipping status.",
+        "download_invoice": "Download Invoice",
+        "edit_order": "Edit Order",
+        "order_summary": "Order Summary",
+        "status": "Status",
+        "shipped": "Shipped",
+        "date": "Date",
+        "channel": "Channel",
+        "total": "Total",
+        "tracking": "Tracking",
+        "delivery": "Delivery",
+        "customer": "Customer"
+    }
+}

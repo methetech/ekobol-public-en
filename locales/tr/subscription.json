@@ -1,0 +1,45 @@
+{
+  "subscription": {
+    "title": "Kendi Planınızı Oluşturun.",
+    "description": "Sadece ihtiyacınız olan araçlar için ödeme yapın. İşletmeniz için mükemmel aboneliği oluşturmak üzere özellikleri seçin ve eşleştirin. Yıllık ödeme yaparak %20 tasarruf edin.",
+    "monthly": "Aylık",
+    "yearly": "Yıllık (2 Ay Ücretsiz)"
+  },
+  "marketplace_tiers": {
+    "title": "Pazar Yeri Katmanını Seçin",
+    "description": "Entegre etmeniz gereken pazar yeri sayısını seçin.",
+    "tier1_label": "1 Pazar Yeri",
+    "tier1_price": "₺200/ay",
+    "tier2_label": "3 Pazar Yeriye Kadar",
+    "tier2_price": "₺400/ay",
+    "tier3_label": "5 Pazar Yeriye Kadar",
+    "tier3_price": "₺800/ay"
+  },
+  "ai_features": {
+    "title": "Modüler Güç Paketlerini Seçin",
+    "description": "İmparatorluğunuzun ihtiyaç duyduğu spesifik motorları devreye alın.",
+    "product_imaging_label": "Ürün Görüntüleme & Stil",
+    "product_imaging_price": "₺400/ay",
+    "smart_marketing_label": "Akıllı Pazarlama Motoru",
+    "smart_marketing_price": "₺600/ay",
+    "unified_center_label": "Birleşik Komuta Merkezi",
+    "unified_center_price": "₺500/ay",
+    "seo_trends_label": "SEO & Pazar Trendleri",
+    "seo_trends_price": "₺350/ay",
+    "competitor_spy_label": "Rakip Analiz Aracı",
+    "competitor_spy_price": "₺450/ay",
+    "ai_learning_label": "Otonom YZ Öğrenimi",
+    "ai_learning_price": "₺800/ay",
+    "ai_descriptions_label": "YZ Açıklama Yazarı",
+    "ai_descriptions_price": "₺250/ay"
+  },
+  "summary_card": {
+    "title": "Özel Plan Özetiniz",
+    "estimated_cost": "Tahmini Aylık Maliyet",
+    "note": "(Temel/İş Ortağı Planları için işlem ücretleri hariçtir)",
+    "feature1": "Esnek faturalandırma, istediğiniz zaman iptal edin",
+    "feature2": "Sadece kullandığınız kadar ödeyin",
+    "feature3": "İşletmenizle birlikte ölçeklenir",
+    "cta_button": "Ödeme İşlemine Devam Et"
+  }
+}

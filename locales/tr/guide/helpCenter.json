@@ -1,0 +1,139 @@
+{
+    "title": "Size Nasıl Yardımcı Olabiliriz?",
+    "subtitle": "Hesap yönetiminden yapay zeka araçlarına kadar, Ekobol deneyiminizi en üst düzeye çıkarmak için ihtiyacınız olan her şey burada.",
+    "search_placeholder": "Bir soru sor veya anahtar kelime ara (örn. 'stok otomasyonu')",
+    "categories": {
+        "getting_started": "Başlarken",
+        "ai_tools": "Yapay Zeka Araçları",
+        "product_inventory": "Ürün ve Envanter",
+        "billing_growth": "Faturalandırma ve Büyüme"
+    },
+    "support_badge_v2": "Ekobol Destek v2.0",
+    "support_assist_text": "Destek ekibimiz her zaman yardıma hazır.",
+    "ai_solutions": {
+        "api_error_title": "API Bağlantı Sorunu Algılandı",
+        "api_error_desc": "API Anahtarları veya bağlantılarla ilgili sorun yaşıyor gibisiniz. Hızlı bir tanı testi çalıştıralım.",
+        "test_connection": "Bağlantıyı Test Et",
+        "setup_marketplace_title": "Yeni Bir Mağaza Bağla",
+        "setup_marketplace_desc": "Büyümeye hazır mısınız? Trendyol, Etsy veya Amazon'u bağlamak için interaktif rehberimizi izleyin.",
+        "start_wizard": "Entegrasyonu Başlat",
+        "invoice_title": "Faturalandırma ve Ödemeler",
+        "invoice_desc": "Geçmiş makbuzlarınızı mı arıyorsunuz? Bunları doğrudan Finans panelinde bulabilirsiniz.",
+        "view_invoices": "Faturalara Git"
+    },
+    "guides": {
+        "setup_profile": {
+            "title": "Profilinizi Oluşturma",
+            "desc": "Ekobol'de ilk adımlarınızı atın ve mağaza ayarlarınızı yapılandırın."
+        },
+        "dashboard_overview": {
+            "title": "Kontrol Panelini Anlama",
+            "desc": "Tüm e-ticaret operasyonlarınızı tek bir yerden yönetmeyi öğrenin."
+        },
+        "connect_marketplace": {
+            "title": "Pazaryerlerini Bağlama",
+            "desc": "Trendyol, Hepsiburada ve diğer hesaplarınızı entegre edin."
+        },
+        "ai_image_gen": {
+            "title": "YZ Görüntü Oluşturucu",
+            "desc": "Ürün fotoğraflarınızı profesyonel stüdyo kalitesine dönüştürün."
+        },
+        "ai_descriptions": {
+            "title": "Etkileyici Açıklamalar Yazma",
+            "desc": "Satışları artıran, SEO dostu ürün açıklamaları oluşturun."
+        },
+        "ai_marketing": {
+            "title": "YZ Pazarlama Kampanyaları",
+            "desc": "Otomatik reklamlar ve sosyal medya içerikleriyle görünürlüğü artırın."
+        },
+        "ai_pricing": {
+            "title": "Akıllı Fiyatlandırma",
+            "desc": "Rakipleri analiz edin ve karınızı maksimize eden fiyatları bulun."
+        },
+        "product_management": {
+            "title": "Ürün Ekleme ve Düzenleme",
+            "desc": "Kataloğunuzu yönetmenin en hızlı ve verimli yolları."
+        },
+        "inventory_automation": {
+            "title": "Envanter Otomasyonu",
+            "desc": "Stok takibini otomatiğe bağlayın, 'Stokta Yok' derdine son verin."
+        },
+        "seo_tools": {
+            "title": "SEO Optimizasyon Araçları",
+            "desc": "Ürünlerinizi arama sonuçlarında en üst sıraya taşıyın."
+        },
+        "bulk_upload": {
+            "title": "Toplu Ürün Yükleme",
+            "desc": "CSV dosyalarını kullanarak yüzlerce ürünü aynı anda yükleyin, güncelleyin veya silin."
+        },
+        "revenue_sharing": {
+            "title": "Gelir Paylaşımı Nasıl Çalışır?",
+            "desc": "Adil ve şeffaf komisyon modelimiz hakkında detaylı bilgi."
+        },
+        "upgrade_plan": {
+            "title": "Plan Yükseltme ve Değiştirme",
+            "desc": "İhtiyacınıza uygun pakete geçiş yapma rehberi."
+        },
+        "invoices": {
+            "title": "Faturaları Görüntüleme",
+            "desc": "Geçmiş ödemelerinizi ve fatura detaylarınızı inceleyin."
+        },
+        "multi_currency": {
+            "title": "Çoklu Para Birimi Desteği",
+            "desc": "Birden fazla para biriminde ödeme kabul ederek küresel olarak satış yapın."
+        },
+        "return_refund": {
+            "title": "İade ve Geri Ödeme Yönetimi",
+            "desc": "İadeleri, değişimleri ve geri ödeme iş akışlarını otomatikleştirin."
+        },
+        "customer_support": {
+            "title": "Müşteri Destek Araçları",
+            "desc": "Biletleri, canlı sohbeti ve müşteri sorgularını yönetin."
+        },
+        "api_integration": {
+            "title": "API Entegrasyonu",
+            "desc": "Webhook'lar ve RESTful API ile harici sistemleri bağlayın."
+        },
+        "mobile_app": {
+            "title": "Mobil Uygulama Rehberi",
+            "desc": "İOS/Android uygulamasıyla işinizi hareket halinde yönetin."
+        },
+        "security_privacy": {
+            "title": "Güvenlik ve Gizlilik",
+            "desc": "2FA, şifreleme ve GDPR uyumluluğu ile verilerinizi koruyun."
+        },
+        "generative_design": {
+            "title": "Üretken Tasarım Rehberi",
+            "desc": "Yapay zeka destekli üretken tasarım araçlarıyla benzersiz ürün görselleri oluşturun."
+        },
+        "ai_learning": {
+            "title": "YZ Öğrenme Rehberi",
+            "desc": "YZ'nin mağaza verilerinizden nasıl öğrenip performansı optimize ettiğini keşfedin."
+        },
+        "smart_ad_optimizer": {
+            "title": "Akıllı Reklam Optimizer",
+            "desc": "YZ destekli bütçe dağılımı ve hedefleme ile reklam ROI'nizi maksimize edin."
+        },
+        "unified_center": {
+            "title": "Birleşik Komuta Merkezi",
+            "desc": "Tüm e-ticaret operasyonlarınızı tek bir güçlü panelden yönetin."
+        },
+        "competitor_spy": {
+            "title": "Rakip Takibi",
+            "desc": "Rakip fiyatlandırmasını, stok seviyelerini ve pazar konumlarını takip edin."
+        },
+        "order_management": {
+            "title": "Sipariş Yönetimi Ustalığı",
+            "desc": "Sipariş işleme, teslimat ve sorun çözümleme iş akışlarını kolaylaştırın."
+        }
+    },
+    "contact_support": "Destek Ekibiyle İletişime Geç",
+    "still_need_help": "Aradığınızı bulamadınız mı?",
+    "popular_topics": "Popüler Konular",
+    "articles": {
+        "article1": "İlk Satışımı Nasıl Yaparım?",
+        "article2": "YZ Kredileri Hakkında",
+        "article3": "İade Süreçleri",
+        "article4": "Global Pazarlara Açılma"
+    }
+}

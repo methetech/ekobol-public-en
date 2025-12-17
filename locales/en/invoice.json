@@ -1,0 +1,37 @@
+{
+    "page_title": "Invoice",
+    "title": "Invoice #INV20250701",
+    "subtitle": "View payment details and invoice line items.",
+    "download_pdf": "Download PDF",
+    "company_name": "Ekobol Services Inc.",
+    "invoice_label": "INVOICE",
+    "date_label": "Date: July 1, 2025",
+    "billed_to": "BILLED TO:",
+    "payment_status_label": "PAYMENT STATUS:",
+    "payment_status_paid": "PAID",
+    "payment_date_label": "Payment Date: July 1, 2025",
+    "table": {
+        "description": "Description",
+        "quantity": "Quantity",
+        "unit_price": "Unit Price",
+        "total": "Total"
+    },
+    "items": {
+        "partner_plan": "Ekobol Partner Plan (Monthly Subscription)",
+        "ai_credits": "Extra AI Credit Pack (1000 Credits)"
+    },
+    "summary": {
+        "subtotal": "Subtotal:",
+        "tax": "Tax (20% VAT):",
+        "grand_total": "Grand Total:"
+    },
+    "footer": {
+        "thank_you": "Thank you for your business!",
+        "auto_generated": "This invoice was automatically generated. If you have any questions, please contact our support team."
+    },
+    "demo": {
+        "customer_name": "Jane Smith",
+        "customer_email": "jane.smith@example.com",
+        "customer_company": "Your Example Company Inc."
+    }
+}

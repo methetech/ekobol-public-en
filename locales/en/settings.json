@@ -1,0 +1,55 @@
+{
+    "page_title": "Settings",
+    "page_subtitle": "Manage your account and preferences",
+    "tabs": {
+        "profile": "Profile",
+        "subscription": "Subscription",
+        "notifications": "Notifications",
+        "security": "Security"
+    },
+    "profile": {
+        "title": "Profile Information",
+        "avatar_change": "Change",
+        "full_name": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "company": "Company Name",
+        "bio": "Bio",
+        "website": "Website",
+        "save_button": "Save Changes"
+    },
+    "subscription": {
+        "title": "Subscription & Billing",
+        "current_plan": "Current Plan",
+        "billing_cycle": "Billing Cycle",
+        "next_payment": "Next Payment",
+        "payment_method": "Payment Method",
+        "upgrade_button": "Upgrade Plan",
+        "manage_billing": "Manage Billing",
+        "partner_plan": "Partner Plan",
+        "monthly": "Monthly"
+    },
+    "notifications": {
+        "title": "Notification Preferences",
+        "email_notifications": "Email Notifications",
+        "email_description": "Receive updates via email",
+        "push_notifications": "Push Notifications",
+        "push_description": "Browser push notifications",
+        "marketing": "Marketing Communications",
+        "marketing_description": "Product updates and special offers",
+        "save_button": "Save Preferences"
+    },
+    "security": {
+        "title": "Security Settings",
+        "password_section": "Password",
+        "current_password": "Current Password",
+        "new_password": "New Password",
+        "confirm_password": "Confirm New Password",
+        "change_password_button": "Change Password",
+        "two_factor": "Two-Factor Authentication",
+        "two_factor_description": "Add an extra layer of security",
+        "enable_2fa": "Enable 2FA",
+        "sessions": "Active Sessions",
+        "sessions_description": "Manage your active sessions"
+    }
+}

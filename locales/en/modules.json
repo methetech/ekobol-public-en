@@ -1,0 +1,491 @@
+{
+    "unified_center": {
+        "master_page": {
+            "hero_title": "Total Dominion <br/>Over Data",
+            "hero_subtitle": "The fragmented era is over. Unify your entire e-commerce stack into a single, living organism.",
+            "philosophy_title": "Why Unification?",
+            "philosophy_desc": "Latency kills profit. Disconnected tools bleed revenue. By fusing analytics, logistics, and AI agents into one core, you achieve a level of operational awareness previously reserved for Fortune 50s.",
+            "modules_title": "Core Capabilities",
+            "technical_title": "The Architecture of Power",
+            "technical_points": [
+                "Kafka-based Event Streaming",
+                "Sub-100ms Global Latency",
+                "Self-Healing Infrastructure"
+            ],
+            "cta": "Initialize Command",
+            "cta_text": "Access Module"
+        },
+        "analytics": {
+            "system_active": "SYSTEM ACTIVE",
+            "hero_title": "The Nervous System of <br/>Modern Commerce",
+            "hero_desc": "Connect every data point from your empire into a single, pulsating dashboard. No lag. No guesswork. Just pure, agonizingly precise domination.",
+            "live_data_feed": "Live Data Feed",
+            "simulated_view": "Simulated view of a standard enterprise client.",
+            "websocket_established": "WEBSOCKET ESTABLISHED",
+            "stats": {
+                "revenue": "Total Revenue",
+                "active_users": "Active Users",
+                "conversion_rate": "Conversion Rate",
+                "global_reach": "Global Reach"
+            },
+            "how_it_works": {
+                "title": "How It Works",
+                "step1_title": "The Ingestion Layer",
+                "step1_desc": "We place lightweight listeners on every touchpoint—your Shopify store, AWS servers, social ads, and inventory databases. These listeners stream raw events to our Kafka clusters in real-time.",
+                "step2_title": "Neural Normalization",
+                "step2_desc": "Raw data is messy. Our 'Context Engine' cleans and normalizes this data instantly, converting a click in Tokyo and a sale in New York into a single, unified currency of attention.",
+                "step3_title": "Actionable Projection",
+                "step3_desc": "We don't just show you what happened. We use Linear Regression models to chart where the trend line is going next 4 hours from now, giving you time to react before the market does."
+            },
+            "value_props": {
+                "visibility_title": "Total Visibility",
+                "visibility_desc": "Stop checking 15 different tabs. See your ad spend next to your inventory levels next to your profit margins. One screen to rule them all.",
+                "decisions_title": "Faster Decisions",
+                "decisions_desc": "By the time you pull a monthly report, the trend is over. Live analytics let you kill a bad ad campaign in minutes, saving thousands.",
+                "investor_title": "Investor Ready",
+                "investor_desc": "Show your partners and investors that you have a finger on the pulse of every single interaction in your ecosystem."
+            }
+        },
+        "global_market": {
+            "borderless_infra": "BORDERLESS INFRASTRUCTURE",
+            "hero_title": "Command Your Empire <br/>From the Stratosphere",
+            "hero_desc": "Visualize coverage, track supply chains, and identify new territories. The world is small when you see it all at once.",
+            "live_connection": "Live Connection Status",
+            "latency": "Sub-100ms Latency",
+            "interface_title": "Global Operations Console",
+            "interface_desc": "Managing a global business usually involves disjointed logistics reports, regional sales sheets, and server health monitors. We combine these into a single geospatial visualization layer.",
+            "penetration_title": "Regional Penetration Analysis",
+            "penetration_desc": "Heatmaps show exactly where your brand is hot and where it's cold.",
+            "supply_chain_title": "Supply Chain Visualization",
+            "supply_chain_desc": "Track shipments from factory to warehouse in real-time on the 3D globe.",
+            "tech_specs_title": "Technical Architecture",
+            "step1_title": "Step 1: Geo-Tagging",
+            "step1_desc": "Every transaction IP is resolved to a lat/long coordinate using MaxMind GeoIP2 databases with 99.8% city-level accuracy.",
+            "step2_title": "Step 2: WebGL Rendering",
+            "step2_desc": "We use Three.js to render a hardware-accelerated 3D globe in the browser, capable of displaying 50,000+ individual nodes without dropping frames.",
+            "step3_title": "Step 3: Cluster Management",
+            "step3_desc": "Dense regions are automatically clustered using K-Means algorithms to prevent visual clutter while maintaining data integrity."
+        },
+        "auto_agents": {
+            "autonomous_system": "AUTONOMOUS SYSTEM",
+            "hero_title": "Your 24/7 Digital <br/>Sales Army",
+            "hero_desc": "Not just a chatbot. These are autonomous agents capable of checking inventory, processing payments, and negotiating deals while you sleep.",
+            "system_health": "System Health",
+            "latency": "Latency",
+            "uptime": "Uptime",
+            "capabilities_title": "Agent Capabilities",
+            "cap_inventory": "Inventory Lookup",
+            "cap_order": "Order Modification",
+            "cap_refund": "Refund Processing",
+            "cap_language": "Multi-Language Support",
+            "agent_name": "Customer Support Agent #882",
+            "generating_response": "AI is generating response...",
+            "mechanism_title": "Under The Hood: RAG Architecture",
+            "step1_title": "1. Intent Recognition",
+            "step1_desc": "The user's message is analyzed by an NLP model (e.g., 'Do you have size 42?'). We extract entities: [Product: Current Page], [Attribute: Size 42].",
+            "step2_title": "2. Tool Execution",
+            "step2_desc": "Unlike standard LLMs, our agents have 'Tools'. The AI decides to call `checkInventory(product_id, size=42)` on your database API.",
+            "step3_title": "3. Natural Synthesis",
+            "step3_desc": "The tool result ('Qty: 3, Location: Istanbul') is fed back to the LLM, which wraps it in a polite, brand-aware response ('Yes, we have 3 units...')."
+        },
+        "profit_optimizer": {
+            "dynamic_pricing": "DYNAMIC PRICING ENGINE",
+            "hero_title": "Stop Leaving Money <br/>On The Table",
+            "hero_desc": "Find the perfect equilibrium between volume and margin. Our AI simulates demand elasticity to find the 'Sweet Spot' instantly.",
+            "live_simulation": "Live Simulation",
+            "margin_label": "Target Profit Margin",
+            "volume_focus": "Volume Focus",
+            "profit_focus": "Profit Focus",
+            "optimized_price": "Optimized Price",
+            "projected_profit": "Projected Profit",
+            "math_title": "The Mathematics of Profit",
+            "math_desc": "Most merchants set prices based on 'gut feeling' or a fixed multiplier (e.g., 2x cost). This is inefficient. We use Price Elasticity of Demand algorithms.",
+            "competitor_title": "Competitor Awareness",
+            "competitor_desc": "The engine continuously scrapes competitor prices. If they sell out, we automatically raise your price by 5% to capture urgency.",
+            "decay_title": "Time-Based Decay",
+            "decay_desc": "For perishable or seasonal goods, the model calculates the optimal markdown cadence to ensure 0% leftover stock."
+        }
+    },
+    "product_imaging": {
+        "master_page": {
+            "hero_title": "Reality is <br/>Optional",
+            "hero_subtitle": "Stop organizing photoshoots. Start hallucinating brand universes.",
+            "philosophy_title": "The Death of the Studio",
+            "philosophy_desc": "Traditional photography is slow, expensive, and bound by physics. Our generative pipeline lets you place your product in a Tokyo penthouse or on the surface of Mars in seconds, with perfect lighting match.",
+            "modules_title": "Visual Tools",
+            "technical_title": "Generative Specs",
+            "technical_points": [
+                "Stable Diffusion XL Core",
+                "Physics-Based Light Baking",
+                "Geometry Preservation Layer"
+            ],
+            "cta": "Start Generating",
+            "cta_text": "Access Tool"
+        },
+        "background_remover": {
+            "badge": "PIXEL-PERFECT SEGMENTATION",
+            "hero_title": "The End of <br/><span class=\"text-pink-500\">Manual Masking</span>",
+            "hero_desc": "Our computer vision models understand subject boundaries with hair-level precision. Prepare your entire catalog for marketplaces in seconds.",
+            "section_title": "Zero-Click Editing",
+            "section_desc": "Just drag and drop. No \"magic wand\" tool, no refining edges. We trained our model on 12 million e-commerce product shots to handle transparency, reflections, and complex shadows automatically.",
+            "stats": {
+                "processing": "Avg Processing",
+                "resolution": "Max Resolution"
+            },
+            "click_to_process": "Click to Process",
+            "reset": "Reset Demo",
+            "steps": {
+                "step1_title": "Subject Detection",
+                "step1_desc": "A U-Net Convolutional Neural Network (CNN) identifies the primary object, distinguishing it from noise and clutter.",
+                "step2_title": "Alpha Matting",
+                "step2_desc": "We generate a trimap to calculate pixel opacity at the edges, preserving semi-transparent details like smoke or glass.",
+                "step3_title": "Edge Refinement",
+                "step3_desc": "A final post-processing pass smooths jagged artifacts, ensuring the cutout looks natural against any background."
+            }
+        },
+        "style_transfer": {
+            "badge": "CONTEXTUAL RE-IMAGING",
+            "hero_title": "Photoshoots Without <br/><span class=\"text-indigo-500\">The Photographer</span>",
+            "hero_desc": "Place your product in a Tokyo street, a minimalist studio, or a Mars colony. Our diffusion models hallucinate hyper-realistic environments around your assets.",
+            "select_env": "Select Environment",
+            "styles": {
+                "studio": {
+                    "name": "Minimalist Studio",
+                    "desc": "Soft lighting, clean lines"
+                },
+                "nature": {
+                    "name": "Forest Floor",
+                    "desc": "Moss, sunlight, organic"
+                },
+                "city": {
+                    "name": "Urban Night",
+                    "desc": "Neon reflections, wet asphalt"
+                }
+            },
+            "generating": "Generative Fill: Integrating lighting and shadow maps based on selected H-DR environment...",
+            "explanation_title": "Stable Diffusion for Commerce",
+            "explanation_desc": "We fine-tuned Stable Diffusion 3.0 specifically for product photography. Unlike generic AI art tools, our model respects the geometry and branding of your original product image.",
+            "preservation_title": "Preservation Lock™",
+            "preservation_desc": "A proprietary masking layer ensures the AI never alters your product's logo, text, or key design features while generating the background.",
+            "stats": {
+                "scenes": "Preset Scenes",
+                "cost": "Set Cost",
+                "time": "Render Time",
+                "variations": "Variations"
+            }
+        }
+    },
+    "smart_marketing": {
+        "master_page": {
+            "hero_title": "Growth on <br/>Auto-Pilot",
+            "hero_subtitle": "Turn your ad spend into a mathematical certainty. Eliminate the 'marketing guessing game' forever.",
+            "philosophy_title": "Algorithmic Persuasion",
+            "philosophy_desc": "Humans are bad at media buying. We get emotional. We sleep. Our AI agents treat every pixel of ad space as a high-frequency trading floor, bidding only when the probability of conversion > 80%.",
+            "modules_title": "Growth Engines",
+            "technical_title": "Marketing Stack",
+            "technical_points": [
+                "Bayesian A/B Testing",
+                "Multi-Touch Attribution",
+                "Lookalike Audience Cloning"
+            ],
+            "cta": "Launch Campaigns",
+            "cta_text": "Access Engine"
+        },
+        "ad_optimizer": {
+            "badge": "MULTI-CHANNEL ORCHESTRATION",
+            "hero_title": "Stop Burning Cash on <br/><span class=\"text-red-500\">Bad Clicks</span>",
+            "hero_desc": "Our AI reallocates your budget across Meta, Google, and TikTok every 15 minutes. It hunts for the cheapest conversions while you sleep.",
+            "simulator_title": "Budget Simulator",
+            "budget_label": "Monthly Budget Limit",
+            "projected_roas": "Proj. ROAS",
+            "projected_rev": "Proj. Revenue",
+            "ai_insight": "AI Insight",
+            "insight_text": "\"Instagram Stories are performing 40% better than Reels this weekend. Reallocating $500 to Stories...\"",
+            "allocations": {
+                "instagram": "Instagram Allocation",
+                "google": "Google Ads Allocation",
+                "tiktok": "TikTok Allocation"
+            },
+            "features": {
+                "tracking_title": "Cross-Platform Tracking",
+                "tracking_desc": "Most users see an ad on TikTok but buy on Google. We track this \"invisible journey\" to ensure you credit the right channel.",
+                "testing_title": "A/B/n Testing",
+                "testing_desc": "We generate 50 variations of your ad copy and image. The system kills the losers in 2 hours and pours budget into the winners.",
+                "cloning_title": "Audience Cloning",
+                "cloning_desc": "Identify your \"Whales\" (top spenders) and use Lookalike Audiences to find 10,000 more people exactly like them."
+            }
+        },
+        "conversion_tracker": {
+            "badge": "SALES PLUMBING",
+            "hero_title": "Plug the Leaks in <br/><span class=\"text-cyan-500\">Your Bucket</span>",
+            "hero_desc": "Traffic is expensive. Don't waste it. We visualizes exactly where your customers are abandoning ship and tell you how to fix it.",
+            "funnel_title": "Live Session Flow (Past 24h)",
+            "stages": {
+                "landing": "Landing Page",
+                "product": "Product View",
+                "cart": "Add to Cart",
+                "checkout": "Checkout",
+                "purchase": "Purchase"
+            },
+            "alert_title": "Critical Leak Detected",
+            "alert_desc": "75% drop-off between Product View and Add to Cart.",
+            "suggestion": "> Suggested Fix: Your 'Add to Cart' button is below the fold on Mobile devices. Move it up 200px.",
+            "reasons_title": "Why Do They Leave?",
+            "reasons": {
+                "shipping": "Surprise Shipping Costs",
+                "slow": "Site Loaded Too Slow",
+                "error": "Payment Gateway Error"
+            }
+        }
+    },
+    "seo_trends": {
+        "master_page": {
+            "hero_title": "Invisibility is <br/>A Choice",
+            "hero_subtitle": "Google is a battlefield. We give you the high ground.",
+            "philosophy_title": "Search Supremacy",
+            "philosophy_desc": "Most brands pray for traffic. We engineer it. By reverse-engineering search algorithms and identifying 'content gaps', we position your brand as the mathematical answer to your customer's questions.",
+            "modules_title": "Ranking Tools",
+            "technical_title": "SEO Architecture",
+            "technical_points": [
+                "Semantic Gap Analysis",
+                "SERP Feature Tracking",
+                "Backlink Forensics"
+            ],
+            "cta": "Start Ranking",
+            "cta_text": "Inspect Data"
+        },
+        "keyword_gap": {
+            "badge": "COMPETITIVE INTELLIGENCE",
+            "hero_title": "Steal Their <br/><span class=\"text-orange-500\">Best Traffic</span>",
+            "hero_desc": "See exactly which keywords your competitors consistently rank for—that you don't. Identify the gaps and capture their organic leads.",
+            "table_title": "Showing \"Missing\" Opportunities",
+            "headers": {
+                "keyword": "Keyword",
+                "volume": "Volume",
+                "difficulty": "Difficulty",
+                "position": "Competitor Pos.",
+                "action": "Action"
+            },
+            "generate_article": "Generate Article",
+            "filters": {
+                "easy_wins": "Easy Wins",
+                "high_volume": "High Volume"
+            },
+            "features": {
+                "algorithm_title": "The \"Low Fruit\" Algorithm",
+                "algorithm_desc": "We automatically filter for high-volume, low-difficulty keywords that your rivals are ignoring. These are easy wins for quick traffic.",
+                "blueprint_title": "Content Blueprint",
+                "blueprint_desc": "Don't just get a keyword list. Get a content brief. Our AI scans the top 10 results and tells you exactly what headers to write to outrank them.",
+                "backlink_title": "Backlink Gap",
+                "backlink_desc": "See who links to your competitors but not you. These are high-probability outreach targets to boost your domain authority."
+            }
+        },
+        "rank_tracker": {
+            "badge": "SERP DOMINANCE",
+            "hero_title": "Defend Your <br/><span class=\"text-green-500\">First Place</span>",
+            "hero_desc": "Tracking 50,000+ keywords daily across 140 locations. If you drop even one spot, you'll know before your morning coffee.",
+            "chart_title": "Keyword: \"Wireless Headphones\"",
+            "position": "Position #2",
+            "chart": {
+                "rank_position": "Rank Position",
+                "days": [
+                    "Mon",
+                    "Tue",
+                    "Wed",
+                    "Thu",
+                    "Fri",
+                    "Sat",
+                    "Sun"
+                ]
+            },
+            "filters": {
+                "desktop": "Desktop"
+            },
+            "alerts": {
+                "volatility_title": "Volatility Alert",
+                "volatility_desc": "Google \"Core Update\" detected. 40% of your keywords saw movement > 3 positions today.",
+                "local_title": "Local Pack",
+                "local_desc": "You are ranking #1 in \"New York\", but #8 in \"New Jersey\". Suggested: Create location-specific landing page."
+            },
+            "features": {
+                "mobile_title": "Mobile vs. Desktop Tracking",
+                "mobile_desc": "Rankings are different on every device. We track both separately so you don't optimize for desktop while losing 80% of your mobile traffic.",
+                "serp_title": "SERP Feature Analysis",
+                "serp_desc": "It's not just about 10 blue links anymore. We track if you own the Featured Snippet, the Image Pack, the Video Carousel, or the \"People Also Ask\" box."
+            }
+        }
+    },
+    "generative_design": {
+        "master_page": {
+            "hero_title": "Imagination <br/>At Scale",
+            "hero_subtitle": "From a napkin sketch to a 4K production render in 3 seconds. Design without limits.",
+            "philosophy_title": "Infinite Iteration",
+            "philosophy_desc": "Why settle for 3 design concepts when you can generate 300? Our generative engines allow you to explore every possible permutation of form, material, and texture before committing to a prototype.",
+            "modules_title": "Creation Tools",
+            "technical_title": "Render Pipeline",
+            "technical_points": [
+                "ControlNet Edge Detection",
+                "PBR Texture Synthesis",
+                "Real-ESRGAN Upscaling"
+            ],
+            "cta": "Start Designing",
+            "cta_text": "Create Asset"
+        },
+        "sketch_to_image": {
+            "badge": "CONCEPT VISUALIZATION",
+            "hero_title": "From Napkin Sketch <br/><span class=\"text-purple-500\">To Prototype</span>",
+            "hero_desc": "Accelerate your design cycle by 10x. Draw a rough outline, describe the material, and let our ControlNet models fill in the photorealistic details.",
+            "input_label": "Input: Structure",
+            "clear": "Clear",
+            "draw_hint": "Draw a shoe outline...",
+            "generate_btn": "Generate Realism",
+            "rendering": "Rendering...",
+            "output_label": "Output: Realism",
+            "waiting": "Waiting for sketch...",
+            "processing": {
+                "controlnet": "Running ControlNet Preprocessor..."
+            },
+            "output": {
+                "generated_image": "Generated Shoe"
+            },
+            "how_it_works": {
+                "title": "ControlNet Architecture",
+                "step1_title": "Edge Detection",
+                "step1_desc": "The model locks onto your drawn lines using Canny Edge detection, treating them as immutable structural constraints.",
+                "step2_title": "Latent Diffusion",
+                "step2_desc": "It fills the empty space with textures (leather, rubber, mesh) based on your text prompt, without violating the boundaries you drew.",
+                "step3_title": "Upscaling",
+                "step3_desc": "The final low-res concept is passed through a Real-ESRGAN upscaler to create a sharp, production-ready 4K image."
+            }
+        },
+        "texture_generator": {
+            "badge": "INFINITE MATERIALS",
+            "hero_title": "The Universal <br/><span class=\"text-yellow-500\">Fabricator</span>",
+            "hero_desc": "Need \"carbon fiber woven with gold thread\"? Or \"rusted steampunk iron\"? Generating seamless, tileable 4K PBR textures in seconds.",
+            "section_title": "Prompt-to-Material",
+            "section_desc": "Traditional 3D artists spend hours in Substance Designer making materials. We reduced that to a single text prompt.",
+            "example_prompt": "\"Dragon scale leather, iridescent, seamless\"",
+            "maps": "Diffuse, Normal, Roughness, Displacement",
+            "generate": "Generate",
+            "preview": "Material Preview",
+            "processing": {
+                "diffusion_steps": "Diffusion Steps:"
+            },
+            "specs": {
+                "resolution": "Resolution",
+                "tiling": "X/Y Tiling",
+                "pbr": "Standard Compliant",
+                "format": "High-Bit Depth",
+                "seamless": "Seamless",
+                "yes": "Yes"
+            }
+        }
+    },
+    "competitor_spy": {
+        "master_page": {
+            "hero_title": "Know The <br/>Enemy",
+            "hero_subtitle": "Total market transparency. See their stock, their prices, and their strategies in real-time.",
+            "philosophy_title": "Information Warfare",
+            "philosophy_desc": "In commerce, knowledge isn't just power—it's profit. We don't just track your competitors; we wiretap their entire operation, giving you the intel to flank them before they even know you're there.",
+            "modules_title": "Intelligence Suite",
+            "technical_title": "Spy Network",
+            "technical_points": [
+                "Distributed Scraper Grid",
+                "Inventory Inference Logic",
+                "Price Change Alerts"
+            ],
+            "cta": "Deploy Spies",
+            "cta_text": "Intercept Data"
+        },
+        "price_history": {
+            "badge": "MARKET SURVEILLANCE",
+            "hero_title": "They Move. <br/><span class=\"text-red-500\">You Counter.</span>",
+            "hero_desc": "Our bots scrape 50M product pages daily. We trace every price fluctuation, flash sale, and secret discount code your rivals deploy.",
+            "demo_title": "Product: \"Urban Runner Sneakers\"",
+            "demo_sub": "Live tracking vs. Top 2 Competitors",
+            "alert": "Competitor Undercut Detected",
+            "features": {
+                "pattern_title": "Historical Pattern Recognition",
+                "pattern_desc": "\"Competitor A always drops prices by 15% on the last Friday of the month.\" We identify these habits so you can pre-empt them.",
+                "alert_title": "Instant Alerting",
+                "alert_desc": "Get a Slack notification or SMS the second a key competitor changes a price tag. React before your customers notice.",
+                "map_title": "MAP Monitoring",
+                "map_desc": "For brands: ensuring your retailers aren't violating Minimum Advertised Price policies. We catch unauthorized discounters instantly."
+            }
+        },
+        "stock_monitor": {
+            "badge": "INVENTORY ESPIONAGE",
+            "hero_title": "Know When They <br/><span class=\"text-blue-500\">Run Dry</span>",
+            "hero_desc": "The moment your competitor goes out of stock, we automatically boost your ad spend to capture 100% of the stranded demand.",
+            "feed_title": "Live Competitor Inventory Feed",
+            "scanning": "Scanning 140 URLs",
+            "table": {
+                "product": "Product",
+                "target": "Target",
+                "status": "Status",
+                "qty": "Est. Qty",
+                "last_scan": "Last Scan"
+            },
+            "method_title": "The \"Add-to-Cart\" Method",
+            "method_desc": "How do we know they have exactly 4 units left? Our bots simulate adding 999 items to the cart. Most e-commerce platforms respond with \"Error: Only 4 available.\" We capture that error message.",
+            "strategy_title": "Strategy: The Shark Attack",
+            "strategy_desc": "When a major competitor goes \"Out of Stock\", it's blood in the water.",
+            "steps": [
+                "System detects competitor stock = 0.",
+                "Bidding engine increases limits on their brand keywords.",
+                "Dynamic creative updates ads to say \"In Stock & Ready to Ship\"."
+            ]
+        }
+    },
+    "ai_learning": {
+        "master_page": {
+            "hero_title": "Evolution <br/>Is Mandatory",
+            "hero_subtitle": "The code that rewrites itself. A system that gets smarter with every dollar you process.",
+            "philosophy_title": "The Last Algorithm",
+            "philosophy_desc": "Static software is dead. Our self-improving models use reinforcement learning to perpetually optimize your pricing, marketing, and logistical logic. It doesn't just run; it adapts.",
+            "modules_title": "Evolutionary Cores",
+            "technical_title": "Neural Specs",
+            "technical_points": [
+                "Reinforcement Learning (RLHF)",
+                "Genetic Mutation Algo",
+                "Auto-Code Injection"
+            ],
+            "cta": "Evolve Now",
+            "cta_text": "Initiate Evolution"
+        },
+        "self_improving": {
+            "badge": "REINFORCEMENT LEARNING",
+            "hero_title": "Smarter Than <br/><span class=\"text-purple-500\">Yesterday</span>",
+            "hero_desc": "The software doesn't just run; it learns. Every click, every hover, and every sale trains the next version of the sales algorithm.",
+            "cycle": "Auto-Training Cycle",
+            "log": "Adjusted weights for \"Price Sensitivity\" based on weekend traffic data.",
+            "loop_title": "The Feedback Loop",
+            "loop_desc": "It's simple evolution. If the AI changes the button color to orange and sales drop (v4.1.8), it \"feels pain\" and rolls back immediately. If sales go up (v4.2.0), it locks the change forever.",
+            "stats": {
+                "experiments": "Experiments / Day",
+                "fail_safe": "Fail Safe"
+            },
+            "human_title": "No Human Required",
+            "human_desc": "You don't approve these updates. The system has authorization to edit its own frontend code within strict safety boundaries to maximize profit."
+        },
+        "genetic_strategies": {
+            "badge": "EVOLUTIONARY ALGORITHMS",
+            "hero_title": "Survival of the <br/><span class=\"text-indigo-500\">Most Profitable</span>",
+            "hero_desc": "We spawn 1,000 unique marketing strategies. 990 will die. The top 10 will breed to create the ultimate Generation Alpha strategy.",
+            "gen_label": "Generation 42: Perfected",
+            "discarded": "Discarded 988 low-performance strategies (ROAS < 1.2)",
+            "how_it_works": "How It Works",
+            "steps": {
+                "spawn_title": "Spawn",
+                "spawn_desc": "We create thousands of random variables: ad copy tone, discount amount, button color, email send time, landing page layout.",
+                "selection_title": "Selection",
+                "selection_desc": "We run these in micro-batches (100 impressions each). Any variation that loses money is instantly killed.",
+                "mutation_title": "Crossover & Mutation",
+                "mutation_desc": "The winners are combined. Maybe \"Aggressive Copy\" + \"Blue Button\" works best? The system breeds them to find out."
+            },
+            "case_study_title": "Case Study: The \"Black Friday\" Mutation",
+            "case_study_desc": "In 2024, our algorithm discovered that showing a \"Low Battery\" warning icon next to the checkout timer increased urgency conversion by 14% on mobile devices.",
+            "quote": "\"No human marketing team would ever think to try that. The algorithm found it by accident, then exploited it ruthlessly.\""
+        }
+    }
+}

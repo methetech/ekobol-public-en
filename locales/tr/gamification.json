@@ -1,0 +1,17 @@
+{
+    "rank_rookie": "Çaylak Ajan",
+    "rank_specialist": "Operasyon Uzmanı",
+    "rank_master": "Usta Mimar",
+    "xp_label": "XP",
+    "level_label": "Seviye",
+    "next_level": "Sonraki Rütbe",
+    "badges": {
+        "First_Login": "İlk Giriş",
+        "Profile_Setup": "Profil Kurulumu",
+        "Guide_Master_I": "Rehber Ustası I"
+    },
+    "profile_card": {
+        "title": "Ajan Durumu",
+        "mission_progress": "Görev İlerlemesi"
+    }
+}

@@ -1,0 +1,48 @@
+{
+  "about": {
+    "hero": {
+      "title": "Hakkımızda",
+      "subtitle": "E-ticaretin geleceğini şekillendiren bir ekibin hikayesi."
+    },
+    "mission": {
+      "title": "Misyon",
+      "content": "Bir ürün fotoğrafı yüklüyorsunuz. Sistem o fotoğraftan ürünü tanıyor, arama motorlarında öne çıkacak başlık yazıyor, profesyonel açıklama oluşturuyor, farklı açılardan görseller üretiyor. Sonra bunu istediğiniz pazaryerine, istediğiniz web sitesine, istediğiniz sosyal medya kanalına dağıtıyor. Sıfırdan marka yaratıyoruz."
+    },
+    "vision": {
+      "title": "Vizyon",
+      "content": "Yapay zekayı sadece büyük şirketlerin kullanabildiği pahalı bir araç olmaktan çıkarmak istiyoruz. Küçük bir esnafın da, dev bir markanın da aynı teknolojiye erişebildiği bir dünya hayal ediyoruz. E-ticaret demek ürününüzü sevmek demek, saatler harcayarak manuel iş yapmak değil."
+    },
+    "team": {
+      "title": "Ekip",
+      "subtitle": "Vizyonu hayata geçiren isimler.",
+      "members": [
+        {
+          "name": "Mete Avcı",
+          "role": "Yapay Zeka ve Kullanıcı Deneyimi",
+          "bio": "Ekobol'ün tüm yapay zeka özelliklerini ve kullanıcı arayüzünü tasarlıyor. Karmaşık teknolojileri herkesin kolayca kullanabileceği ürünlere dönüştürüyor."
+        },
+        {
+          "name": "Doğa Aydın",
+          "role": "Altyapı ve Sistem Mimarisi",
+          "bio": "Ekobol'ün tüm backend altyapısını, veritabanlarını ve sunucu mimarisini geliştiriyor. Sistemin hızlı, güvenilir ve ölçeklenebilir olmasını sağlıyor."
+        }
+      ]
+    },
+    "story": {
+      "title": "Hikaye",
+      "ekobol": {
+        "title": "Ekobol Ne Demek?",
+        "content": "Economy, echo, ecosystem... Hepsinin ortak kökü 'eko'. Türkçedeki 'bol' kelimesiyle birleştirince ortaya güzel bir anlam çıktı: ekosistemlerin yankılanarak bollaştığı yer. Birden fazla pazaryerini, birden fazla kanalı, birden fazla müşteriyi tek bir merkezden yönetmek."
+      },
+      "methetech": {
+        "title": "Me the Tech Felsefesi",
+        "content": "Ekobol, daha büyük bir vizyonun ilk adımı. Me the Tech, bu vizyonun arkasındaki şirket. 'Me the' kalıbı kasıtlı olarak seçildi. Kullanıcıyı merkeze koymak temel prensip. Me the AI, Me the Future, Me the Commerce... Teknoloji sizin için çalışmalı, siz teknoloji için değil."
+      }
+    },
+    "cta": {
+      "title": "Merak mı Ettiniz?",
+      "subtitle": "Deneyin, görün. Ücretsiz başlayın, büyüdükçe büyüyün.",
+      "button": "Hemen Başlayın"
+    }
+  }
+}

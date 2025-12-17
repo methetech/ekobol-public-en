@@ -1,0 +1,101 @@
+{
+    "title": "Ürünleriniz",
+    "subtitle": "Tüm bağlı kanallarınızdaki ürün kataloğunuzu yönetin.",
+    "add_new": "Yeni Ürün Ekle",
+    "filters": {
+        "all_channels": "Tüm Kanallar",
+        "all_statuses": "Tüm Durumlar",
+        "search_placeholder": "Ürün Adı veya SKU Ara..."
+    },
+    "table": {
+        "product": "Ürün",
+        "sku": "SKU",
+        "stock": "Stok",
+        "price": "Fiyat",
+        "channels": "Kanallar",
+        "status": "Durum",
+        "actions": "Eylemler"
+    },
+    "status": {
+        "active": "Aktif",
+        "draft": "Taslak",
+        "oos": "Stokta Yok",
+        "archived": "Arşivlendi"
+    },
+    "actions": {
+        "edit": "Düzenle",
+        "view_live": "Canlı Görüntüle",
+        "archive": "Arşivle",
+        "publish": "Yayınla",
+        "quick_edit": "Hızlı Düzenle",
+        "delete": "Sil",
+        "copy_id": "ID Kopyala"
+    },
+    "slide_over": {
+        "title": "Ürün Detayı",
+        "stock_update": "Stok Güncelle",
+        "price_update": "Fiyat Güncelle",
+        "save_changes": "Değişiklikleri Kaydet"
+    },
+    "empty": {
+        "title": "Ürün Bulunamadı",
+        "description": "Aramanızla eşleşen bir ürün yok veya henüz hiç ürün eklemediniz."
+    },
+    "mock": {
+        "p1_name": "Organik Pamuk Tişört",
+        "p1_desc": "Yumuşak ve nefes alabilen",
+        "p2_name": "El Yapımı Seramik Kupa",
+        "p2_desc": "Benzersiz el yapımı kupa",
+        "p3_name": "YZ Oluşturulmuş Sanat Baskısı",
+        "p3_desc": "Benzersiz dijital oluşturma",
+        "p4_name": "Ergonomik Ofis Koltuğu",
+        "p4_desc": "Uzun çalışma saatleri için",
+        "p5_name": "Bluetooth Hoparlör",
+        "p5_desc": "Taşınabilir ve güçlü",
+        "unlimited": "Sınırsız"
+    },
+    "add_edit": {
+        "page_title": "Ürün Ekle/Düzenle",
+        "page_subtitle": "YZ desteğiyle ürün listelerinizi oluşturun veya değiştirin.",
+        "labels": {
+            "product_name": "Ürün Adı",
+            "sku": "SKU",
+            "description": "Açıklama",
+            "price": "Fiyat",
+            "stock": "Stok",
+            "channels": "Satış Kanalları"
+        },
+        "placeholders": {
+            "product_name": "örn. Organik Pamuk Tişört",
+            "sku": "örn. OCTS001"
+        },
+        "validation": {
+            "name_min": "Ürün adı en az 3 karakter olmalıdır.",
+            "sku_min": "SKU en az 3 karakter olmalıdır.",
+            "price_min": "Fiyat 0'dan küçük olamaz",
+            "stock_int": "Stok tam sayı olmalıdır",
+            "stock_min": "Stok 0'dan küçük olamaz"
+        },
+        "buttons": {
+            "cancel": "İptal",
+            "save_draft": "Taslak Olarak Kaydet",
+            "publish": "Ürünü Yayınla"
+        }
+    },
+    "display": {
+        "in_stock": "Stokta Var",
+        "category_apparel": "Giyim",
+        "features": {
+            "organic": "%100 Organik Pamuk",
+            "breathable": "Nefes Alabilen Kumaş",
+            "sustainable": "Sürdürülebilir Üretim",
+            "unisex": "Unisex Kesim"
+        },
+        "description": "Organik pamuklu tişörtümüzle sürdürülebilir konforu deneyimleyin. Yumuşak, nefes alabilen ve çevre dostu bu tişört, günlük kullanım için mükemmeldir. %100 organik pamuktan üretilmiştir.",
+        "select_size": "Beden Seçin",
+        "select_color": "Renk Seçin",
+        "quantity": "Adet",
+        "add_to_cart": "Sepete Ekle",
+        "buy_now": "Hemen Al"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Siparişler",
+    "subtitle": "Tüm kanallardan gelen siparişleri tek yerden yönetin.",
+    "filters": {
+        "all_channels": "Tüm Kanallar",
+        "all_statuses": "Tüm Durumlar",
+        "search_placeholder": "Sipariş No veya Müşteri Ara..."
+    },
+    "table": {
+        "order_no": "Sipariş No",
+        "customer": "Müşteri",
+        "date": "Tarih",
+        "total": "Tutar",
+        "channel": "Kanal",
+        "status": "Durum",
+        "actions": "Eylemler"
+    },
+    "status": {
+        "pending": "Bekliyor",
+        "shipped": "Kargolandı",
+        "delivered": "Teslim Edildi",
+        "cancelled": "İptal Edildi"
+    },
+    "actions": {
+        "view": "Görüntüle",
+        "edit": "Düzenle",
+        "print_invoice": "Fatura Yazdır",
+        "mark_shipped": "Kargolandı İşaretle"
+    },
+    "slide_over": {
+        "title": "Sipariş Detayı",
+        "customer_info": "Müşteri Bilgileri",
+        "order_items": "Sipariş Kalemleri",
+        "shipping_address": "Teslimat Adresi",
+        "update_status": "Durumu Güncelle"
+    },
+    "detail": {
+        "order_id": "Sipariş #{{id}}",
+        "page_desc": "Sipariş bilgilerini, müşteri detaylarını ve kargo durumunu görüntüleyin.",
+        "download_invoice": "Faturayı İndir",
+        "edit_order": "Siparişi Düzenle",
+        "order_summary": "Sipariş Özeti",
+        "status": "Durum",
+        "shipped": "Kargolandı",
+        "date": "Tarih",
+        "channel": "Kanal",
+        "total": "Toplam",
+        "tracking": "Takip",
+        "delivery": "Teslimat",
+        "customer": "Müşteri"
+    }
+}

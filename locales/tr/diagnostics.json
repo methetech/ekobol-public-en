@@ -1,0 +1,12 @@
+{
+    "run_check": "Otomatik Tanılama Çalıştır",
+    "running_test": "Uzak ajan aracılığıyla sistem yapılandırması kontrol ediliyor...",
+    "retry": "Düzeltmeyi Dene & Tekrarla",
+    "system_operational": "Sistem Çalışıyor",
+    "api_connection": {
+        "title": "Bağlantı Durumu Kontrolü",
+        "desc": "Tahmin etmeye çalışmayın. API'nızın pazar yeri sunucularıyla gerçekten iletişim kurup kurmadığını doğrulamak için aşağıya tıklayın.",
+        "success_msg": "Mükemmel! Pazar yeri API'sı ile güvenli bir el sıkışma gerçekleştirdik.",
+        "error_msg": "Bağlantı Başarısız. Geçersiz API Anahtarı veya IP kısıtlaması algılandı. Lütfen bilgilerinizi kontrol edin."
+    }
+}

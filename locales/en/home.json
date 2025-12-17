@@ -1,0 +1,133 @@
+{
+  "hero_line_1": "Build the Empire of",
+  "active_node": "ACTIVE NODE",
+  "badge_text": "Next Gen AI Platform",
+  "hero_line_2": "Your Products",
+  "hero_subtitle": "Ekobol is Me the Tech's \"thinking code\" philosophy. More than a tool that unifies marketplaces; it is an autonomous growth engine designed for you to dominate the digital world.",
+  "hero_cta1": "Declare Your Kingdom",
+  "hero_cta2": "See the Arsenal",
+  "protocol": {
+    "title": "THE GROWTH PROTOCOL",
+    "subtitle": "A self-reinforcing cybernetic loop. The machine that feeds itself.",
+    "status_label": "SYSTEM STATUS",
+    "status_active": "ONLINE",
+    "nodes": {
+      "integration": {
+        "title": "INTEGRATION",
+        "desc": "Raw Data Ingestion. Connecting APIs, Marketplaces, and Inventory Streams."
+      },
+      "intelligence": {
+        "title": "INTELLIGENCE",
+        "desc": "Neural Analysis. Competitor scanning, Price elasticity modeling, Opportunity detection."
+      },
+      "synthesis": {
+        "title": "SYNTHESIS",
+        "desc": "Asset Generation. AI visual rendering, Copywriting, Strategic positioning."
+      },
+      "domination": {
+        "title": "DOMINATION",
+        "desc": "Market Execution. Ad launch, Sales conversion, Profit realization."
+      }
+    }
+  },
+  "playground_title": "AI Playground: The Power of Creation",
+  "playground_subtitle": "Witness how an ordinary product transforms into a market phenomenon with Ekobol's artificial intelligence.",
+  "playground_initial_title": "STARTING POINT",
+  "playground_initial_desc": "A simple product photo.",
+  "playground_transform_button": "TRANSFORM",
+  "playground_final_title": "FINAL RESULT",
+  "playground_studio_title": "1. AI Visual Studio",
+  "playground_desc_title": "2. AI Smart Description",
+  "playground_desc_content": "Rewrite the rules of the street. Designed for urban exploration, the 'Nebula' model combines breathable composite mesh and a reactive foam sole. With every step, don't just walk, flow into the future.",
+  "playground_price_title": "3. AI Price Supremacy",
+  "playground_price_subtitle": "Market Leader Price",
+  "playground_price": "$250",
+  "playground_reset_button": "Reset",
+  "final_cta_title": "Be the Next Trend.",
+  "final_cta_subtitle": "Define the new rules of digital commerce. Transition to limitless infrastructure equipped with autonomous growth engines. Your empire awaits.",
+  "final_cta_button": "Start Free Today",
+  "automation_nexus_title": "Ekobol AI Automation Command Center",
+  "automation_nexus_subtitle": "Transform your business processes with Ekobol's AI-powered automation, maximize efficiency, and leave your competitors behind. An interactive experience covering all site capabilities and workflows.",
+  "magic_bento": {
+    "forge": {
+      "label": "FORGE",
+      "title": "AI Product Imaging & Content",
+      "description": "Connect marketplaces and upload products. Let AI generate stunning visuals and compelling descriptions.",
+      "expanded": [
+        "Background Removal & Replacement",
+        "Style Transfer Engine"
+      ]
+    },
+    "amplify": {
+      "label": "AMPLIFY",
+      "title": "Smart Marketing & Pricing",
+      "description": "Unleash AI to create hypnotic campaigns and execute unbeatable pricing strategies.",
+      "expanded": [
+        "Ad-Spend Optimization",
+        "Conversion Rate Tracking"
+      ]
+    },
+    "dominate": {
+      "label": "COMMAND",
+      "title": "Unified Command Center",
+      "description": "Rule your empire from a single panel. Dominate the market with real-time data.",
+      "expanded": [
+        "Real-time Analytics Dashboard",
+        "Global Market Coverage",
+        "Automated Responding Agents",
+        "Profit Margin Optimization"
+      ]
+    },
+    "seo_analysis": {
+      "label": "RANK",
+      "title": "SEO & Trend Analysis",
+      "description": "Before launch, AI analyzes market trends, SEO keywords, and competitor strategies to position your product for maximum impact.",
+      "expanded": [
+        "Keyword Gap Analysis",
+        "Competitor Rank Tracking"
+      ]
+    },
+    "competitor_analysis": {
+      "label": "INSPECT",
+      "title": "Competitor Intelligence",
+      "description": "Gain an unfair advantage with deep insights into competitor pricing, marketing, and product strategies.",
+      "expanded": [
+        "Pricing History Tracker",
+        "Stock Level Monitoring"
+      ]
+    },
+    "ai_descriptions": {
+      "label": "WRITE",
+      "title": "AI-Optimized Descriptions",
+      "description": "Generate compelling, keyword-rich product descriptions tailored to your brand voice and target audience."
+    },
+    "ai_visuals": {
+      "label": "DESIGN",
+      "title": "AI-Generated Product Visuals",
+      "description": "From a simple idea or sketch, Ekobol AI creates stunning, photorealistic product images and visualizations.",
+      "expanded": [
+        "Sketch-to-Image Pipeline",
+        "Texture Generation"
+      ]
+    },
+    "ai_learning": {
+      "label": "EVOLVE",
+      "title": "Continuous AI Learning",
+      "description": "Our AI agents constantly monitor market data, learn from performance, and autonomously refine strategies for ongoing growth.",
+      "expanded": [
+        "Self-Improving Models",
+        "Strategy Genetic Algorithms"
+      ]
+    },
+    "connectivity": {
+      "label": "CORE",
+      "title": "Marketplace Integration",
+      "description": "Seamlessly connect and manage all your sales channels from one central hub."
+    },
+    "insights": {
+      "label": "CORE",
+      "title": "Real-time Analytics",
+      "description": "Gain deep insights into your sales, customers, and market behavior to stay ahead."
+    }
+  }
+}

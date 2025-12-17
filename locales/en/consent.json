@@ -1,0 +1,9 @@
+{
+    "cookie_consent": {
+        "title": "Cookie Notice",
+        "description": "We use only strictly necessary cookies ensuring the system functions correctly.",
+        "accept": "Understood",
+        "privacy_link": "Privacy Policy",
+        "cookie_link": "Cookie Policy"
+    }
+}

@@ -1,0 +1,498 @@
+{
+    "unified_center": {
+        "master_page": {
+            "badge": "BİRLEŞİK KOMUTA MODÜLÜ",
+            "hero_title": "Veri Üzerinde <br/>Mutlak Hakimiyet",
+            "hero_subtitle": "Parçalanmış dönem bitti. Tüm e-ticaret yığınızı tek, yaşayan bir organizmada birleştirin.",
+            "philosophy_title": "Neden Birleşme?",
+            "philosophy_desc": "Gecikme karı öldürür. Kopuk araçlar gelir kanamasına yol açar. Analitiği, lojistiği ve yapay zeka ajanlarını tek bir çekirdekte birleştirerek, daha önce sadece Fortune 50 şirketlerine özgü bir operasyonel farkındalık seviyesine ulaşırsınız.",
+            "modules_title": "Temel Yetenekler",
+            "technical_title": "Gücün Mimarisi",
+            "technical_points": [
+                "Kafka Tabanlı Olay Akışı",
+                "100ms Altı Küresel Gecikme",
+                "Kendi Kendini İyileştiren Altyapı"
+            ],
+            "cta": "Komutayı Başlat",
+            "cta_text": "Modüle Eriş"
+        },
+        "analytics": {
+            "system_active": "SİSTEM AKTİF",
+            "hero_title": "Modern Ticaretin <br/>Sinir Sistemi",
+            "hero_desc": "İmparatorluğunuzdaki her veri noktasını atan tek bir canlı panoya bağlayın. Gecikme yok. Tahmin yok. Sadece saf, acımasız derecede hassas hakimiyet.",
+            "live_data_feed": "Canlı Veri Akışı",
+            "simulated_view": "Standart bir kurumsal müşterinin simüle edilmiş görünümü.",
+            "websocket_established": "BAĞLANTI KURULDU",
+            "stats": {
+                "revenue": "Toplam Ciro",
+                "active_users": "Aktif Kullanıcı",
+                "conversion_rate": "Dönüşüm Oranı",
+                "global_reach": "Küresel Erişim"
+            },
+            "how_it_works": {
+                "title": "Nasıl Çalışır?",
+                "step1_title": "Veri Sindirme Katmanı",
+                "step1_desc": "Shopify mağazanız, AWS sunucularınız, sosyal medya reklamlarınız ve stok veritabanlarınız... Her temas noktasına hafif 'dinleyiciler' yerleştiriyoruz. Bu dinleyiciler ham olayları gerçek zamanlı olarak Kafka kümelerimize aktarır.",
+                "step2_title": "Nöral Normalizasyon",
+                "step2_desc": "Ham veri karmaşıktır. 'Bağlam Motorumuz' bu veriyi anında temizler ve normalleştirir; Tokyo'daki bir tıklamayı ve New York'taki bir satışı tek bir dikkat birimine dönüştürür.",
+                "step3_title": "Aksiyonel Projeksiyon",
+                "step3_desc": "Sadece ne olduğunu göstermiyoruz. Doğrusal Regresyon modelleri kullanarak trend çizgisinin 4 saat sonra nereye gideceğini haritalandırıyoruz, böylece piyasa tepki vermeden siz önlem alabilirsiniz."
+            },
+            "value_props": {
+                "visibility_title": "Mutlak Görünürlük",
+                "visibility_desc": "15 farklı sekmeyi kontrol etmeyi bırakın. Reklam harcamanızı, stok seviyenizi ve kar marjınızı yan yana görün. Hepsine hükmeden tek bir ekran.",
+                "decisions_title": "Hızlı Kararlar",
+                "decisions_desc": "Siz aylık raporu çekene kadar trend biter. Canlı analizler, kötü giden bir reklam kampanyasını dakikalar içinde durdurup binlerce dolar kurtarmanızı sağlar.",
+                "investor_title": "Yatırımcıya Hazır",
+                "investor_desc": "Ortaklarınıza ve yatırımcılarınıza, ekosisteminizdeki her bir etkileşimin nabzını tuttuğunuzu kanıtlayın."
+            }
+        },
+        "global_market": {
+            "borderless_infra": "SINIRSIZ ALTYAPI",
+            "hero_title": "İmparatorluğunuzu <br/>Stratosferden Yönetin",
+            "hero_desc": "Kapsama alanını görselleştirin, tedarik zincirlerini izleyin ve yeni bölgeleri tespit edin. Hepsini aynı anda gördüğünüzde dünya ne kadar küçük.",
+            "live_connection": "Canlı Bağlantı Durumu",
+            "latency": "100ms Altı Gecikme",
+            "interface_title": "Küresel Operasyon Konsolu",
+            "interface_desc": "Küresel bir işi yönetmek genellikle kopuk lojistik raporları, bölgesel satış tabloları ve sunucu monitörleri gerektirir. Biz bunları tek bir coğrafi görselleştirme katmanında birleştiriyoruz.",
+            "penetration_title": "Bölgesel Penetrasyon Analizi",
+            "penetration_desc": "Isı haritaları, markanızın nerede yandığını ve nerede donduğunu tam olarak gösterir.",
+            "supply_chain_title": "Tedarik Zinciri Görselleştirme",
+            "supply_chain_desc": "Fabrikadan depoya sevkiyatları 3D küre üzerinde gerçek zamanlı olarak izleyin.",
+            "tech_specs_title": "Teknik Mimari",
+            "step1_title": "Adım 1: Coğrafi Etiketleme",
+            "step1_desc": "Her işlem IP'si, MaxMind GeoIP2 veritabanları kullanılarak %99.8 şehir düzeyi doğrulukla bir enlem/boylam koordinatına çözümlenir.",
+            "step2_title": "Adım 2: WebGL Render",
+            "step2_desc": "Tarayıcıda donanım hızlandırmalı bir 3D küre oluşturmak için Three.js kullanıyoruz. Bu, kare kaybı olmadan 50.000'den fazla ayrı düğümü görüntüleyebilir.",
+            "step3_title": "Adım 3: Küme Yönetimi",
+            "step3_desc": "Yoğun bölgeler, görsel kirliliği önlemek ve veri bütünlüğünü korumak için K-Means algoritmaları kullanılarak otomatik olarak kümelenir."
+        },
+        "auto_agents": {
+            "autonomous_system": "OTONOM SİSTEM",
+            "hero_title": "Sizin 7/24 <br/>Dijital Satış Ordunuz",
+            "hero_desc": "Sadece bir chatbot değil. Bunlar stoğu kontrol eden, ödemeleri işleyen ve siz uyurken pazarlık yapabilen otonom ajanlar.",
+            "system_health": "Sistem Sağlığı",
+            "latency": "Gecikme",
+            "uptime": "Çalışma Süresi",
+            "capabilities_title": "Ajan Yetenekleri",
+            "cap_inventory": "Stok Sorgulama",
+            "cap_order": "Sipariş Düzenleme",
+            "cap_refund": "İade İşlemleri",
+            "cap_language": "Çoklu Dil Desteği",
+            "agent_name": "Müşteri Destek Ajanı #882",
+            "generating_response": "AI yanıt oluşturuyor...",
+            "mechanism_title": "Kaputun Altı: RAG Mimarisi",
+            "step1_title": "1. Niyet Algılama",
+            "step1_desc": "Kullanıcının mesajı bir NLP modeli tarafından analiz edilir (ör. '42 numara var mı?'). Varlıkları çıkarıyoruz: [Ürün: Mevcut Sayfa], [Nitelik: Beden 42].",
+            "step2_title": "2. Araç Çalıştırma",
+            "step2_desc": "Standart LLM'lerin aksine, ajanlarımızın 'Araçları' vardır. AI, veritabanı API'nizde `stokKontrol(urun_id, beden=42)` fonksiyonunu çağırmaya karar verir.",
+            "step3_title": "3. Doğal Sentez",
+            "step3_desc": "Araç sonucu ('Adet: 3, Konum: İstanbul'), bu veriyi nazik, marka bilincine sahip bir yanıta dönüştüren LLM'e geri beslenir ('Evet, elimizde 3 adet var...')."
+        },
+        "profit_optimizer": {
+            "dynamic_pricing": "DİNAMİK FİYAT MOTORU",
+            "hero_title": "Parayı Masada <br/>Bırakmayı Bırakın",
+            "hero_desc": "Hacim ve marj arasındaki mükemmel dengeyi bulun. Yapay zekamız, 'Tatlı Nokta'yı anında bulmak için talep esnekliğini simüle eder.",
+            "live_simulation": "Canlı Simülasyon",
+            "margin_label": "Hedef Kar Marjı",
+            "volume_focus": "Hacim Odaklı",
+            "profit_focus": "Kar Odaklı",
+            "optimized_price": "Optimize Fiyat",
+            "projected_profit": "Öngörülen Kar",
+            "math_title": "Karın Matematiği",
+            "math_desc": "Çoğu tüccar fiyatları 'içgüdüye' veya sabit bir çarpana (ör. maliyet x 2) göre belirler. Bu verimsizdir. Biz 'Talebin Fiyat Esnekliği' algoritmalarını kullanıyoruz.",
+            "competitor_title": "Rakip Farkındalığı",
+            "competitor_desc": "Motor, rakip fiyatlarını sürekli tarar. Eğer stokları biterse, aciliyetten yararlanmak için fiyatınızı otomatik olarak %5 artırırız.",
+            "decay_title": "Zaman Bazlı Çürüme",
+            "decay_desc": "Bozulabilir veya mevsimsel mallar için model, %0 artık stok sağlamak amacıyla optimal indirim temposunu hesaplar."
+        }
+    },
+    "product_imaging": {
+        "master_page": {
+            "badge": "ÜRÜN GÖRSEL ÇEKİRDEĞİ",
+            "hero_title": "Gerçeklik <br/>Opsiyoneldir",
+            "hero_subtitle": "Fotoğraf çekimi organize etmeyi bırakın. Marka evrenleri halüsinasyonuna başlayın.",
+            "philosophy_title": "Stüdyonun Ölümü",
+            "philosophy_desc": "Geleneksel fotoğrafçılık yavaştır, pahalıdır ve fizikle sınırlıdır. Üretken hattımız, ürününüzü saniyeler içinde Tokyo'da bir çatı katına veya Mars yüzeyine, kusursuz ışık uyumuyla yerleştirmenizi sağlar.",
+            "modules_title": "Görsel Araçlar",
+            "technical_title": "Üretken Özellikler",
+            "technical_points": [
+                "Stable Diffusion XL Çekirdeği",
+                "Fizik Tabanlı Işık Pişirme",
+                "Geometri Koruma Katmanı"
+            ],
+            "cta": "Üretime Başla",
+            "cta_text": "Araca Eriş"
+        },
+        "background_remover": {
+            "badge": "PİKSEL-MÜKEMMEL AYRIŞTIRMA",
+            "hero_title": "Manuel Kesime <br/><span class=\"text-pink-500\">Son Verin</span>",
+            "hero_desc": "Bilgisayarlı görü modellerimiz nesne sınırlarını saç teli hassasiyetinde anlar. Tüm kataloğunuzu saniyeler içinde pazar yerlerine hazırlayın.",
+            "section_title": "Sıfır Tık ile Düzenleme",
+            "section_desc": "Sadece sürükleyip bırakın. 'Sihirli değnek' aracı yok, kenar düzeltme derdi yok. Modelimizi şeffaflığı, yansımaları ve karmaşık gölgeleri otomatik olarak yönetmesi için 12 milyon e-ticaret fotoğrafıyla eğittik.",
+            "stats": {
+                "processing": "Ort. İşlem Süresi",
+                "resolution": "Maks Çözünürlük"
+            },
+            "click_to_process": "İşlemek için Tıkla",
+            "reset": "Demoyu Sıfırla",
+            "steps": {
+                "step1_title": "Nesne Algılama",
+                "step1_desc": "Bir U-Net Evrişimli Sinir Ağı (CNN), ana nesneyi gürültü ve karmaşadan ayırt ederek tanımlar.",
+                "step2_title": "Alfa Matlama",
+                "step2_desc": "Duman veya cam gibi yarı saydam detayları korumak için kenarlardaki piksel opaklığını hesaplayan bir trimap oluşturuyoruz.",
+                "step3_title": "Kenar İyileştirme",
+                "step3_desc": "Son bir işlem sonrası geçişi, pürüzlü artefaktları yumuşatarak kesimin herhangi bir arka plan üzerinde doğal görünmesini sağlar."
+            }
+        },
+        "style_transfer": {
+            "badge": "BAĞLAMSAL YENİDEN GÖRÜNTÜLEME",
+            "hero_title": "Fotoğrafçı Olmadan <br/><span class=\"text-indigo-500\">Profesyonel Çekim</span>",
+            "hero_desc": "Ürününüzü bir Tokyo sokağına, minimalist bir stüdyoya veya Mars kolonisine yerleştirin. Difüzyon modellerimiz, varlıklarınızın etrafında hiper gerçekçi ortamlar halüsinasyon yoluyla oluşturur.",
+            "select_env": "Ortam Seç",
+            "styles": {
+                "studio": {
+                    "name": "Minimalist Stüdyo",
+                    "desc": "Yumuşak ışık, temiz hatlar"
+                },
+                "nature": {
+                    "name": "Orman Zemini",
+                    "desc": "Yosun, güneş ışığı, organik"
+                },
+                "city": {
+                    "name": "Şehir Gecesi",
+                    "desc": "Neon yansımalar, ıslak asfalt"
+                }
+            },
+            "generating": "Üretken Dolgu: Seçilen H-DR ortamına dayalı ışıklandırma ve gölge haritaları entegre ediliyor...",
+            "explanation_title": "Ticaret için Stable Diffusion",
+            "explanation_desc": "Stable Diffusion 3.0'ı özellikle ürün fotoğrafçılığı için ince ayar yaptık. Sıradan AI sanat araçlarının aksine, modelimiz orijinal ürün görüntünüzün geometrisine ve markasına saygı duyar.",
+            "preservation_title": "Koruma Kilidi™",
+            "preservation_desc": "Özel bir maskeleme katmanı, yapay zekanın arka planı oluştururken ürününüzün logosunu, metnini veya temel tasarım özelliklerini asla değiştirmemesini sağlar.",
+            "stats": {
+                "scenes": "Hazır Sahneler",
+                "cost": "Set Maliyeti",
+                "time": "Render Süresi",
+                "variations": "Varyasyonlar"
+            }
+        }
+    },
+    "smart_marketing": {
+        "master_page": {
+            "badge": "BÜYÜME MOTORU",
+            "hero_title": "Otomatik Pilot <br/>Büyüme",
+            "hero_subtitle": "Reklam harcamanızı matematiksel bir kesinliğe dönüştürün. 'Pazarlama tahmin oyununu' sonsuza dek bitirin.",
+            "philosophy_title": "Algoritmik İkna",
+            "philosophy_desc": "İnsanlar medya satın almada kötüdür. Duygusal davranırız. Uyuruz. Bizim yapay zeka ajanlarımız, her reklam alanı pikselini yüksek frekanslı bir borsa gibi ele alır ve sadece dönüşüm olasılığı > %80 olduğunda teklif verir.",
+            "modules_title": "Büyüme Motorları",
+            "technical_title": "Pazarlama Yığını",
+            "technical_points": [
+                "Bayesyen A/B Testi",
+                "Çoklu Temas İlişkilendirme",
+                "Benzer Kitle Klonlama"
+            ],
+            "cta": "Kampanyaları Başlat",
+            "cta_text": "Motora Eriş"
+        },
+        "ad_optimizer": {
+            "badge": "ÇOK KANALLI ORKESTRASYON",
+            "hero_title": "Paranızı Kötü <br/><span class=\"text-red-500\">Tıklamalara Yakmayın</span>",
+            "hero_desc": "Yapay zekamız bütçenizi Meta, Google ve TikTok arasında her 15 dakikada bir yeniden dağıtır. Siz uyurken en ucuz dönüşümlerin peşine düşer.",
+            "simulator_title": "Bütçe Simülatörü",
+            "budget_label": "Aylık Bütçe Limiti",
+            "projected_roas": "Tahmini ROAS",
+            "projected_rev": "Tahmini Ciro",
+            "ai_insight": "AI İçgörüsü",
+            "insight_text": "\"Instagram Hikayeleri bu hafta sonu Reels'ten %40 daha iyi performans gösteriyor. Bütçenin 500$'ı Hikayelere aktarılıyor...\"",
+            "allocations": {
+                "instagram": "Instagram Dağılımı",
+                "google": "Google Ads Dağılımı",
+                "tiktok": "TikTok Dağılımı"
+            },
+            "features": {
+                "tracking_title": "Çapraz Platform Takibi",
+                "tracking_desc": "Çoğu kullanıcı reklamı TikTok'ta görür ama Google'dan satın alır. Doğru kanala kredi vermeniz için bu 'görünmez yolculuğu' izliyoruz.",
+                "testing_title": "A/B/n Testi",
+                "testing_desc": "Reklam metniniz ve görseliniz için 50 varyasyon oluşturuyoruz. Sistem kaybedenleri 2 saat içinde öldürür ve parayı kazananlara yatırır.",
+                "cloning_title": "Kitle Klonlama",
+                "cloning_desc": "\"Balinalarınızı\" (en çok harcayanları) tanımlayın ve onlara tıpatıp benzeyen 10.000 kişiyi daha bulmak için Benzer Kitleleri kullanın."
+            }
+        },
+        "conversion_tracker": {
+            "badge": "SATIŞ TESİSATI",
+            "hero_title": "Kovadaki Sızıntıları <br/><span class=\"text-cyan-500\">Tamir Edin</span>",
+            "hero_desc": "Trafik pahalıdır. Ziyan etmeyin. Müşterilerinizin gemiyi tam olarak nerede terk ettiğini görselleştiriyor ve size bunu nasıl düzelteceğinizi söylüyoruz.",
+            "funnel_title": "Canlı Oturum Akışı (Son 24s)",
+            "stages": {
+                "landing": "Açılış Sayfası",
+                "product": "Ürün Görüntüleme",
+                "cart": "Sepete Ekleme",
+                "checkout": "Ödeme",
+                "purchase": "Satın Alma"
+            },
+            "alert_title": "Kritik Sızıntı Tespit Edildi",
+            "alert_desc": "Ürün Görüntüleme ile Sepete Ekleme arasında %75 kayıp.",
+            "suggestion": "> Önerilen Düzeltme: 'Sepete Ekle' butonunuz Mobil cihazlarda ekranın çok altında kalıyor. 200px yukarı taşıyın.",
+            "reasons_title": "Neden Gidiyorlar?",
+            "reasons": {
+                "shipping": "Sürpriz Kargo Ücretleri",
+                "slow": "Site Çok Yavaş Yüklendi",
+                "error": "Ödeme Ağ Geçidi Hatası"
+            }
+        }
+    },
+    "seo_trends": {
+        "master_page": {
+            "badge": "ARAMA İSTİHBARATI",
+            "hero_title": "Görünmezlik <br/>Bir Tercihtir",
+            "hero_subtitle": "Google bir savaş alanıdır. Biz size yüksek zemini veriyoruz.",
+            "philosophy_title": "Arama Üstünlüğü",
+            "philosophy_desc": "Çoğu marka trafik için dua eder. Biz ise mühendisliğini yaparız. Arama algoritmalarını tersine mühendislikle çözerek ve 'içerik boşluklarını' belirleyerek, markanızı müşterinizin sorularının matematiksel cevabı olarak konumlandırıyoruz.",
+            "modules_title": "Sıralama Araçları",
+            "technical_title": "SEO Mimarisi",
+            "technical_points": [
+                "Semantik Boşluk Analizi",
+                "SERP Özellik Takibi",
+                "Backlink Adli Bilişimi"
+            ],
+            "cta": "Sıralamaya Başla",
+            "cta_text": "Veriyi İncele"
+        },
+        "keyword_gap": {
+            "badge": "REKABET İSTİHBARATI",
+            "hero_title": "En İyi Trafiklerini <br/><span class=\"text-orange-500\">Çalın</span>",
+            "hero_desc": "Rakiplerinizin sürekli sıralandığı ama sizin sıralanamadığınız kelimeleri görün. Boşlukları tespit edin ve organik potansiyeli yakalayın.",
+            "table_title": "\"Kayıp\" Fırsatları Gösteriliyor",
+            "headers": {
+                "keyword": "Anahtar Kelime",
+                "volume": "Hacim",
+                "difficulty": "Zorluk",
+                "position": "Rakip Poz.",
+                "action": "Aksiyon"
+            },
+            "generate_article": "Makale Oluştur",
+            "filters": {
+                "easy_wins": "Kolay Kazançlar",
+                "high_volume": "Yüksek Hacim"
+            },
+            "features": {
+                "algorithm_title": "\"Kolay Meyve\" Algoritması",
+                "algorithm_desc": "Rakiplerinizin görmezden geldiği yüksek hacimli, düşük zorluklu kelimeleri otomatik olarak filtriyoruz. Bunlar hızlı trafik için kolay kazançlardır.",
+                "blueprint_title": "İçerik Planı",
+                "blueprint_desc": "Sadece bir kelime listesi almayın. Bir içerik özeti alın. Yapay zekamız ilk 10 sonucu tarar ve onları geçmek için tam olarak hangi başlıkları yazmanız gerektiğini söyler.",
+                "backlink_title": "Backlink Boşluğu",
+                "backlink_desc": "Rakiplerinize link veren ama size vermeyen siteleri görün. Bunlar alan adı otoritenizi artırmak için yüksek olasılıklı iletişim hedefleridir."
+            }
+        },
+        "rank_tracker": {
+            "badge": "SERP HAKİMİYETİ",
+            "hero_title": "Birinci Sıranızı <br/><span class=\"text-green-500\">Koruyun</span>",
+            "hero_desc": "140 lokasyonda günlük 50.000+ anahtar kelime takibi. Bir sıra bile düşerseniz, sabah kahvenizden önce haberiniz olur.",
+            "chart_title": "Anahtar Kelime: \"Kablosuz Kulaklık\"",
+            "position": "Pozisyon #2",
+            "chart": {
+                "rank_position": "Sıra Pozisyonu",
+                "days": [
+                    "Pzt",
+                    "Sal",
+                    "Çar",
+                    "Per",
+                    "Cum",
+                    "Cmt",
+                    "Paz"
+                ]
+            },
+            "filters": {
+                "desktop": "Masaüstü"
+            },
+            "alerts": {
+                "volatility_title": "Oynaklık Uyarısı",
+                "volatility_desc": "Google \"Çekirdek Güncelleme\" tespit edildi. Kelimelerinizin %40'ı bugün >3 pozisyon oynadı.",
+                "local_title": "Yerel Paket",
+                "local_desc": "\"İstanbul\"da 1. sıradasınız ama \"Ankara\"da 8. sıradasınız. Öneri: Konum bazlı varış sayfası oluşturun."
+            },
+            "features": {
+                "mobile_title": "Mobil vs. Masaüstü Takibi",
+                "mobile_desc": "Sıralamalar her cihazda farklıdır. İkisini ayrı ayrı takip ediyoruz, böylece masaüstü için optimize edip mobil trafiğinizin %80'ini kaybetmezsiniz.",
+                "serp_title": "SERP Özellik Analizi",
+                "serp_desc": "Artık sadece 10 mavi link değil. Öne Çıkan Snippet, Görsel Paketi, Video Döngüsü veya \"Kullanıcılar Bunları da Sordu\" kutusuna sahip misiniz, takip ediyoruz."
+            }
+        }
+    },
+    "generative_design": {
+        "master_page": {
+            "badge": "GÖRSEL ÇEKİRDEK",
+            "hero_title": "Ölçeklenebilir <br/>Hayal Gücü",
+            "hero_subtitle": "Bir peçete taslağından saniyeler içinde 4K üretim render'ına. Sınırsız tasarım.",
+            "philosophy_title": "Sonsuz Tekerrür",
+            "philosophy_desc": "300 tasarım üretebilecekken neden 3 taneyle yetinesiniz? Üretken motorlarımız, bir prototipe karar vermeden önce form, malzeme ve dokunun her olası permütasyonunu keşfetmenize olanak tanır.",
+            "modules_title": "Yaratım Araçları",
+            "technical_title": "Render Hattı",
+            "technical_points": [
+                "ControlNet Kenar Algılama",
+                "PBR Doku Sentezi",
+                "Real-ESRGAN Ölçekleme"
+            ],
+            "cta": "Tasarla",
+            "cta_text": "Varlık Oluştur"
+        },
+        "sketch_to_image": {
+            "badge": "KONSEPT GÖRSELLEŞTİRME",
+            "hero_title": "Peçete Çiziminden <br/><span class=\"text-purple-500\">Prototipe</span>",
+            "hero_desc": "Tasarım döngünüzü 10 kat hızlandırın. Kaba bir taslak çizin, malzemeyi tanımlayın ve ControlNet modellerimizin fotogerçekçi detayları doldurmasına izin verin.",
+            "input_label": "Girdi: Yapı",
+            "clear": "Temizle",
+            "draw_hint": "Bir ayakkabı taslağı çizin...",
+            "generate_btn": "Gerçeklik Üret",
+            "rendering": "İşleniyor...",
+            "output_label": "Çıktı: Gerçeklik",
+            "waiting": "Çizim bekleniyor...",
+            "processing": {
+                "controlnet": "ControlNet Ön İşleyici Çalıştırılıyor..."
+            },
+            "output": {
+                "generated_image": "Üretilen Ayakkabı"
+            },
+            "how_it_works": {
+                "title": "ControlNet Mimarisi",
+                "step1_title": "Kenar Algılama",
+                "step1_desc": "Model, Canny Kenar algılama kullanarak çizdiğiniz çizgilere kilitlenir ve bunları değişmez yapısal kısıtlamalar olarak kabul eder.",
+                "step2_title": "Latent Difüzyon",
+                "step2_desc": "Çizdiğiniz sınırları ihlal etmeden, metin isteminize dayanarak (deri, kauçuk, file) boş alanları dokularla doldurur.",
+                "step3_title": "Ölçeklendirme",
+                "step3_desc": "Son düşük çözünürlüklü konsept, keskin, üretime hazır 4K bir görüntü oluşturmak için Real-ESRGAN ölçekleyicisinden geçirilir."
+            }
+        },
+        "texture_generator": {
+            "badge": "SONSUZ MATERYAL",
+            "hero_title": "Evrensel <br/><span class=\"text-yellow-500\">Üretici</span>",
+            "hero_desc": "\"Altın iplikle dokunmuş karbon fiber\" mi lazım? Yoksa \"paslanmış steampunk demiri\" mi? Saniyeler içinde kusursuz, döşenebilir 4K PBR dokular üretin.",
+            "section_title": "İstemden Materyale",
+            "section_desc": "Geleneksel 3D sanatçıları Substance Designer'da materyal yapmak için saatler harcar. Biz bunu tek bir metin istemine indirdik.",
+            "example_prompt": "\"Ejderha pulu deri, yanar döner, dikişsiz\"",
+            "maps": "Diffuse, Normal, Roughness, Displacement",
+            "generate": "Oluştur",
+            "preview": "Materyal Önizleme",
+            "processing": {
+                "diffusion_steps": "Difüzyon Adımları:"
+            },
+            "specs": {
+                "resolution": "Çözünürlük",
+                "tiling": "X/Y Döşeme",
+                "pbr": "Standart Uyumlu",
+                "format": "Yüksek Bit Derinliği",
+                "seamless": "Dikişsiz",
+                "yes": "Evet"
+            }
+        }
+    },
+    "competitor_spy": {
+        "master_page": {
+            "badge": "İSTİHBARAT AĞI",
+            "hero_title": "Düşmanı <br/>Tanıyın",
+            "hero_subtitle": "Tam pazar şeffaflığı. Stoklarını, fiyatlarını ve stratejilerini gerçek zamanlı görün.",
+            "philosophy_title": "Bilgi Savaşı",
+            "philosophy_desc": "Ticarette bilgi sadece güç değildir; kardır. Rakiplerinizi sadece izlemiyoruz; tüm operasyonlarını dinliyoruz ve size onları kuşatma zekası veriyoruz.",
+            "modules_title": "Bilgi İşlem Paketi",
+            "technical_title": "Casus Ağı",
+            "technical_points": [
+                "Dağıtık Kazıyıcı Ağı",
+                "Stok Çıkarım Mantığı",
+                "Fiyat Değişim Alarmları"
+            ],
+            "cta": "Casusları Dağıt",
+            "cta_text": "Veri Yakala"
+        },
+        "price_history": {
+            "badge": "PAZAR GÖZETİMİ",
+            "hero_title": "Onlar Oynar. <br/><span class=\"text-red-500\">Siz Vurursunuz.</span>",
+            "hero_desc": "Botlarımız günde 50 milyon ürün sayfasını tarar. Rakiplerinizin uyguladığı her fiyat dalgalanmasını, flaş indirimi ve gizli indirim kodunu takip ederiz.",
+            "demo_title": "Ürün: \"Urban Runner Spor Ayakkabı\"",
+            "demo_sub": "Canlı takip vs. İlk 2 Rakip",
+            "alert": "Rakip Fiyat Kırması Tespit Edildi",
+            "features": {
+                "pattern_title": "Tarihsel Desen Tanıma",
+                "pattern_desc": "\"Rakip A her ayın son Cuma günü fiyatları %15 düşürüyor.\" Bu alışkanlıkları tanımlıyoruz, böylece önceden önlem alabilirsiniz.",
+                "alert_title": "Anlık Uyarı",
+                "alert_desc": "Önemli bir rakip fiyat etiketini değiştirdiği saniye Slack bildirimi veya SMS alın. Müşterileriniz fark etmeden tepki verin.",
+                "map_title": "MAP İzleme",
+                "map_desc": "Markalar için: satıcılarınızın Minimum İlan Edilen Fiyat politikalarını ihlal etmemesini sağlamak. Yetkisiz indirimcileri anında yakalıyoruz."
+            }
+        },
+        "stock_monitor": {
+            "badge": "ENÇVARTER CASUSLUĞU",
+            "hero_title": "Ne Zaman <br/><span class=\"text-blue-500\">Tükendiklerini Bilin</span>",
+            "hero_desc": "Rakibiniz stok dışı kaldığı anda, ortada kalan talebin %100'ünü yakalamak için reklam harcamanızı otomatik olarak artırırız.",
+            "feed_title": "Canlı Rakip Envanter Akışı",
+            "scanning": "140 URL Taranıyor",
+            "table": {
+                "product": "Ürün",
+                "target": "Hedef",
+                "status": "Durum",
+                "qty": "Tahmini Adet",
+                "last_scan": "Son Tarama"
+            },
+            "method_title": "\"Sepete Ekle\" Yöntemi",
+            "method_desc": "Tam olarak 4 adet kaldığını nasıl biliyoruz? Botlarımız sepete 999 adet eklemeyi simüle eder. Çoğu e-ticaret platformu \"Hata: Sadece 4 adet mevcut\" yanıtını verir. Biz bu hata mesajını yakalarız.",
+            "strategy_title": "Strateji: Köpekbalığı Saldırısı",
+            "strategy_desc": "Büyük bir rakip \"Stokta Yok\" durumuna düştüğünde, bu sudaki kandır.",
+            "steps": [
+                "Sistem rakip stoğunu 0 olarak tespit eder.",
+                "Teklif motoru, onların marka kelimelerindeki limitleri artırır.",
+                "Dinamik kreatif, reklamları \"Stokta & Hemen Gönderim\" olarak günceller."
+            ]
+        }
+    },
+    "ai_learning": {
+        "master_page": {
+            "badge": "EVRİM PROTOKOLÜ",
+            "hero_title": "Evrim <br/>Zorunludur",
+            "hero_subtitle": "Kendi kendini yeniden yazan kod. İşlediğiniz her dolarla daha da akıllanan bir sistem.",
+            "philosophy_title": "Son Algoritma",
+            "philosophy_desc": "Statik yazılım öldü. Kendi kendini geliştiren modellerimiz, fiyatlandırma, pazarlama ve lojistik mantığınızı sürekli optimize etmek için pekiştirmeli öğrenmeyi kullanır. Sadece çalışmaz; adapte olur.",
+            "modules_title": "Evrimsel Çekirdekler",
+            "technical_title": "Nöral Özellikler",
+            "technical_points": [
+                "Pekiştirmeli Öğrenme (RLHF)",
+                "Genetik Mutasyon Algo",
+                "Oto-Kod Enjeksiyonu"
+            ],
+            "cta": "Evrimleş",
+            "cta_text": "Evrime Başla"
+        },
+        "self_improving": {
+            "badge": "PEKİŞTİRMELİ ÖĞRENME",
+            "hero_title": "Dünden Daha <br/><span class=\"text-purple-500\">Akıllı</span>",
+            "hero_desc": "Yazılım sadece çalışmaz; öğrenir. Her tıklama, her gezinme ve her satış, satış algoritmasının bir sonraki versiyonunu eğitir.",
+            "cycle": "Oto-Eğitim Döngüsü",
+            "log": "Hafta sonu trafik verilerine dayanarak \"Fiyat Duyarlılığı\" ağırlıkları ayarlandı.",
+            "loop_title": "Geri Bildirim Döngüsü",
+            "loop_desc": "Bu basit bir evrimdir. Eğer AI buton rengini turuncuya çevirir ve satışlar düşerse (v4.1.8), \"acı hisseder\" ve hemen geri alır. Satışlar artarsa (v4.2.0), değişikliği sonsuza dek kilitler.",
+            "stats": {
+                "experiments": "Deney / Gün",
+                "fail_safe": "Güvenlik Kilidi"
+            },
+            "human_title": "İnsan Gerekmez",
+            "human_desc": "Bu güncellemeleri onaylamazsınız. Sistemin, karı maksimize etmek için katı güvenlik sınırları dahilinde kendi frontend kodunu düzenleme yetkisi vardır."
+        },
+        "genetic_strategies": {
+            "badge": "EVRİMSEL ALGORİTMALAR",
+            "hero_title": "En Karlı Olanın <br/><span class=\"text-indigo-500\">Hayatta Kalması</span>",
+            "hero_desc": "1.000 benzersiz pazarlama stratejisi üretiyoruz. 990'ı ölecek. En iyi 10 tanesi, nihai Alfa Nesli stratejisini oluşturmak için üreyecek.",
+            "gen_label": "Nesil 42: Mükemmelleştirilmiş",
+            "discarded": "988 düşük performanslı strateji atıldı (ROAS < 1.2)",
+            "how_it_works": "Nasıl Çalışır?",
+            "steps": {
+                "spawn_title": "Yumurtlama",
+                "spawn_desc": "Binlerce rastgele değişken yaratıyoruz: reklam metni tonu, indirim miktarı, buton rengi, e-posta gönderim saati, açılış sayfası düzeni.",
+                "selection_title": "Seçilim",
+                "selection_desc": "Bunları mikro-partilerde (her biri 100 gösterim) çalıştırıyoruz. Para kaybettiren herhangi bir varyasyon anında öldürülür.",
+                "mutation_title": "Çaprazlama & Mutasyon",
+                "mutation_desc": "Kazananlar birleştirilir. Belki \"Agresif Metin\" + \"Mavi Buton\" en iyisidir? Sistem bunu bulmak için onları çiftleştirir."
+            },
+            "case_study_title": "Vaka Analizi: \"Kara Cuma\" Mutasyonu",
+            "case_study_desc": "2024'te, algoritmamız ödeme sayacı yanına \"Düşük Pil\" uyarı ikonu koymanın, mobil cihazlarda aciliyet dönüşümünü %14 artırdığını keşfetti.",
+            "quote": "\"Hiçbir insan pazarlama ekibi bunu denemeyi akıl edemezdi. Algoritma bunu kazara buldu, sonra acımasızca sömürdü.\""
+        }
+    }
+}

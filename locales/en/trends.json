@@ -1,0 +1,34 @@
+{
+    "title": "Trends & Reports",
+    "subtitle": "Analyze your sales performance and best selling products.",
+    "view_all": "View All",
+    "sales_count": "Sales",
+    "metrics": {
+        "total_sales": "Total Revenue",
+        "growth": "Growth",
+        "top_channel": "Top Channel",
+        "conversion": "Conversion Rate"
+    },
+    "best_sellers": {
+        "title": "Best Sellers"
+    },
+    "channel_performance": {
+        "title": "Channel Performance"
+    },
+    "products": {
+        "p1": {
+            "name": "Organic T-Shirt"
+        },
+        "p2": {
+            "name": "Ceramic Mug"
+        },
+        "p3": {
+            "name": "Art Print"
+        }
+    },
+    "empty": {
+        "title": "No Trend Data",
+        "description": "Not enough data collected for analysis yet. Detailed reports will appear here once you start making sales.",
+        "action": "Return to Dashboard"
+    }
+}

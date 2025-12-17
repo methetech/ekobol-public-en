@@ -1,0 +1,17 @@
+{
+    "rank_rookie": "Rookie Agent",
+    "rank_specialist": "Ops Specialist",
+    "rank_master": "Master Architect",
+    "xp_label": "XP",
+    "level_label": "Level",
+    "next_level": "Next Rank",
+    "badges": {
+        "First_Login": "First Login",
+        "Profile_Setup": "Profile Setup",
+        "Guide_Master_I": "Guide Master I"
+    },
+    "profile_card": {
+        "title": "Agent Status",
+        "mission_progress": "Mission Progress"
+    }
+}

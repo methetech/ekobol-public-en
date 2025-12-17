@@ -1,0 +1,17 @@
+{
+  "title": "Çerez Politikası",
+  "subtitle": "Şeffaf ve Güvenli Veri İşleme Standartları",
+  "intro": "Ekobol, hizmet kalitesini ve bilgi güvenliğini sağlamak amacıyla sınırlı ve amaca uygun çerez teknolojileri kullanmaktadır. Bu politika; web sitemizde kullanılan çerez türlerini, kullanım amaçlarını ve bu çerezlerin yönetimini detaylandırmaktadır.",
+  "what_is_title": "1. Çerez (Cookie) Teknolojisi Nedir?",
+  "what_is_desc": "Çerezler, bir web sitesini ziyaret ettiğinizde tarayıcınız aracılığıyla cihazınızda veya ağ sunucusunda depolanan küçük veri dosyalarıdır. Çerezler, web sitesinin sizi tanımasına, oturum sürekliliğinin sağlanmasına ve tercihlerinizi (dil, tema vb.) hatırlamasına olanak tanır. Çerezler 'kısa süreli' (oturum çerezleri) veya 'uzun süreli' (kalıcı çerezler) olabilir.",
+  "usage_title": "2. Kullanılan Çerez Kategorileri",
+  "usage_desc": "Platformumuzda yalnızca 'Kesinlikle Gerekli' (Strictly Necessary) olarak sınıflandırılan çerezler kullanılmaktadır. Bu çerezler, sistemin teknik mimarisinin bir parçasıdır ve devre dışı bırakıldığında site fonksiyonları çalışmaz.",
+  "necessary_title": "Teknik Olarak Zorunlu Çerezler",
+  "necessary_desc": "Bu çerezler, kullanıcı oturumunun (authentication) yönetilmesi, güvenli giriş yapılması ve CSRF (Cross-Site Request Forgery) saldırılarının önlenmesi için hayati öneme sahiptir. KVKK ve GDPR kapsamında, hizmetin ifası için teknik zorunluluk arz ettiğinden bu çerezler için açık rıza şartı aranmamaktadır. Örnekler: Oturum Tokenları (JWT), Güvenlik Anahtarları.",
+  "no_tracking_title": "İzleme ve Reklam Çerezleri",
+  "no_tracking_desc": "Ekobol platformunda; kullanıcıların internet üzerindeki gezinti alışkanlıklarını analiz eden, profilleme yapan veya kişiselleştirilmiş reklam hedeflemesi sağlayan hiçbir '3. Taraf Pazarlama Çerezi' (Google Ads, Facebook Pixel, Criteo vb.) bulunmamaktadır. Verileriniz reklam ağlarıyla paylaşılmaz.",
+  "management_title": "3. Çerez Yönetimi ve Tercihler",
+  "management_desc": "İnternet tarayıcınızın ayarlar menüsünden (genellikle 'Gizlilik ve Güvenlik' altında) dilediğiniz zaman çerezleri görüntüleyebilir, silebilir veya tamamen engelleyebilirsiniz. Ancak, Zorunlu Çerezleri silmeniz durumunda, platformumuzdaki oturumunuz sonlanacak ve hizmete erişiminiz kısıtlanacaktır.",
+  "contact_title": "İletişim",
+  "contact_desc": "Bu politika hakkındaki teknik veya hukuki sorularınız için privacy@ekobol.com adresinden Veri Güvenliği ekibimize ulaşabilirsiniz."
+}

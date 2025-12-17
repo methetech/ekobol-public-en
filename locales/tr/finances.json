@@ -1,0 +1,47 @@
+{
+    "title": "Finansal Genel Bakış",
+    "subtitle": "Kazançlarınızı takip edin, giderleri yönetin ve abonelik detaylarını görüntüleyin.",
+    "metrics": {
+        "gross_revenue": "Brüt Gelir (Son 30 Gün)",
+        "total_expenses": "Toplam Giderler (Son 30 Gün)",
+        "net_profit": "Net Kâr (Son 30 Gün)",
+        "increase": "Önceki döneme göre %{{value}} artış"
+    },
+    "transactions": {
+        "title": "Son İşlemler",
+        "table": {
+            "date": "Tarih",
+            "description": "Açıklama",
+            "type": "Tür",
+            "amount": "Miktar",
+            "income": "Gelir",
+            "expense": "Gider"
+        },
+        "view_full": "Tam Beyanı Görüntüle →",
+        "mock": {
+            "etsy_payment": "Etsy Satış Ödemesi",
+            "trendyol_commission": "Trendyol Komisyonu",
+            "website_order": "Web Sitesi Siparişi #W40078",
+            "marketing_spend": "Pazarlama Kampanyası Harcaması",
+            "partner_fee": "Ekobol Partner Plan Ücreti"
+        }
+    },
+    "subscription": {
+        "title": "Abonelik & Faturalandırma",
+        "current_plan": "Mevcut Plan:",
+        "plan_name": "Partner Planı",
+        "plan_details": "%50 Kâr Paylaşımı",
+        "change_plan": "Planı Değiştir →",
+        "next_billing": "Sonraki Faturalandırma Tarihi:",
+        "estimated_payment": "Tahmini Ödeme:",
+        "update_payment": "Ödeme Yöntemini Güncelle →"
+    },
+    "ai_insights": {
+        "title": "YZ Finansal İçgörüler",
+        "description": "YZ'miz, eyleme geçirilebilir öneriler sunmak için finansal verilerinizi analiz eder.",
+        "insight_1": "Pazarlama harcamanız, satış hacminize göre ortalamadan %2 daha yüksek. Kampanya verimliliğini gözden geçirin.",
+        "insight_2": "Daha düşük nakliye oranları için müzakere yapmayı düşünün; mevcut oranlar net kârınızı %1.5 etkiliyor.",
+        "insight_3": "Bu çeyrekte ofis malzemeleriyle ilgili toplam <strong>{{amount}}</strong>'lik potansiyel vergi indirimleri tespit edildi.",
+        "generate_report": "Detaylı Rapor Oluştur →"
+    }
+}

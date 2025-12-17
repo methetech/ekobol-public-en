@@ -1,0 +1,79 @@
+{
+    "page_title": "Finansal Raporlar",
+    "full_statement": {
+        "title": "Detaylı Mali Tablo",
+        "subtitle": "Finansal performansınızın kapsamlı özeti",
+        "date_range": "Tarih Aralığı",
+        "export_pdf": "PDF İndir",
+        "export_excel": "Excel İndir",
+        "summary": {
+            "title": "Özet",
+            "total_revenue": "Toplam Gelir",
+            "total_expenses": "Toplam Gider",
+            "net_profit": "Net Kar",
+            "profit_margin": "Kar Marjı"
+        },
+        "revenue_breakdown": "Gelir Dağılımı",
+        "expense_breakdown": "Gider Dağılımı",
+        "transactions": {
+            "title": "Son İşlemler",
+            "date": "Tarih",
+            "description": "Açıklama",
+            "category": "Kategori",
+            "amount": "Tutar",
+            "status": "Durum"
+        }
+    },
+    "generate_report": {
+        "title": "Özel Rapor Oluştur",
+        "subtitle": "İhtiyaçlarınıza göre detaylı raporlar oluşturun",
+        "report_type": "Rapor Tipi",
+        "types": {
+            "sales": "Satış Raporu",
+            "inventory": "Envanter Raporu",
+            "profit_loss": "Kar & Zarar",
+            "tax": "Vergi Raporu",
+            "customer": "Müşteri Analitiği"
+        },
+        "date_range": "Tarih Aralığı Seçin",
+        "start_date": "Başlangıç Tarihi",
+        "end_date": "Bitiş Tarihi",
+        "filters": {
+            "title": "Filtreler",
+            "marketplace": "Pazar Yeri",
+            "category": "Ürün Kategorisi",
+            "status": "Sipariş Durumu"
+        },
+        "format": "Dışa Aktarma Formatı",
+        "formats": {
+            "pdf": "PDF Belgesi",
+            "excel": "Excel Tablosu",
+            "csv": "CSV Dosyası"
+        },
+        "generate_button": "Rapor Oluştur",
+        "preview_button": "Önizleme"
+    },
+    "invoice": {
+        "title": "Fatura",
+        "invoice_number": "Fatura Numarası",
+        "invoice_date": "Fatura Tarihi",
+        "due_date": "Vade Tarihi",
+        "bill_to": "Fatura Adresi",
+        "ship_to": "Teslimat Adresi",
+        "items": {
+            "product": "Ürün",
+            "quantity": "Adet",
+            "unit_price": "Birim Fiyat",
+            "total": "Toplam"
+        },
+        "subtotal": "Ara Toplam",
+        "tax": "Vergi",
+        "shipping": "Kargo",
+        "discount": "İndirim",
+        "total": "Genel Toplam",
+        "payment_terms": "Ödeme Koşulları",
+        "notes": "Notlar",
+        "print_button": "Yazdır",
+        "download_button": "PDF İndir"
+    }
+}

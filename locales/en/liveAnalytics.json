@@ -1,0 +1,47 @@
+{
+    "title": "Live Analytics",
+    "subtitle": "Monitor real-time sales data and site activity.",
+    "nav": {
+        "overview": "Overview",
+        "trends": "Trends",
+        "live": "Live"
+    },
+    "metrics": {
+        "current_visitors": "Current Visitors",
+        "active_visitors": "Active Visitors",
+        "live_sales": "Live Sales",
+        "active_carts": "Active Carts",
+        "page_views": "Page Views",
+        "active_users_desc": "Active users in last 5 min",
+        "last_sale": "Last Sale (Last 1 Hour)",
+        "total_orders": "Total 3 orders",
+        "most_viewed": "Most Viewed Product",
+        "viewing_desc": "Currently viewed by 5 visitors"
+    },
+    "chart": {
+        "title": "Live Traffic Chart",
+        "real_time": "Real-Time"
+    },
+    "charts": {
+        "sales_flow": "Live Sales Flow (Last 60 Minutes)",
+        "live_sales_label": "Live Sales (₺)"
+    },
+    "events": {
+        "title": "Live Orders & Events",
+        "time": {
+            "now": "Now",
+            "min_ago": "{{count}} min ago"
+        },
+        "mock": {
+            "order_etsy": "New order <1>#E10024</1> from Etsy! (₺65.00)",
+            "visitor_product": "2 new visitors on <1>Organic Cotton T-Shirt</1>.",
+            "order_website": "New order <1>#W40079</1> from Website! (₺115.00)",
+            "stock_drop": "<1>Handmade Ceramic Mug</1> stock dropped: 3 left.",
+            "order_trendyol": "New order <1>#T20057</1> from Trendyol! (₺15.00)",
+            "visitor_source": "New visitor source: Instagram Ads.",
+            "visitor_increase": "Total active visitors increased to 10.",
+            "update_hepsiburada": "Hepsiburada product update completed.",
+            "product_name_1": "Organic Cotton T-Shirt"
+        }
+    }
+}

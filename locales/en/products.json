@@ -1,0 +1,101 @@
+{
+    "title": "Your Products",
+    "subtitle": "Manage your product catalog across all connected channels.",
+    "add_new": "Add New Product",
+    "filters": {
+        "all_channels": "All Channels",
+        "all_statuses": "All Statuses",
+        "search_placeholder": "Search Product Name or SKU..."
+    },
+    "table": {
+        "product": "Product",
+        "sku": "SKU",
+        "stock": "Stock",
+        "price": "Price",
+        "channels": "Channels",
+        "status": "Status",
+        "actions": "Actions"
+    },
+    "status": {
+        "active": "Active",
+        "draft": "Draft",
+        "oos": "Out of Stock",
+        "archived": "Archived"
+    },
+    "actions": {
+        "edit": "Edit",
+        "view_live": "View Live",
+        "archive": "Archive",
+        "publish": "Publish",
+        "quick_edit": "Quick Edit",
+        "delete": "Delete",
+        "copy_id": "Copy ID"
+    },
+    "slide_over": {
+        "title": "Product Detail",
+        "stock_update": "Update Stock",
+        "price_update": "Update Price",
+        "save_changes": "Save Changes"
+    },
+    "empty": {
+        "title": "No Products Found",
+        "description": "There are no products matching your search or you haven't added any products yet."
+    },
+    "mock": {
+        "p1_name": "Organic Cotton T-Shirt",
+        "p1_desc": "Soft and breathable",
+        "p2_name": "Handmade Ceramic Mug",
+        "p2_desc": "Unique handmade mug",
+        "p3_name": "AI Generated Art Print",
+        "p3_desc": "Unique digital creation",
+        "p4_name": "Ergonomic Office Chair",
+        "p4_desc": "For long working hours",
+        "p5_name": "Bluetooth Speaker",
+        "p5_desc": "Portable and powerful",
+        "unlimited": "Unlimited"
+    },
+    "add_edit": {
+        "page_title": "Add/Edit Product",
+        "page_subtitle": "Create or modify your product listings with AI support.",
+        "labels": {
+            "product_name": "Product Name",
+            "sku": "SKU",
+            "description": "Description",
+            "price": "Price",
+            "stock": "Stock",
+            "channels": "Sales Channels"
+        },
+        "placeholders": {
+            "product_name": "e.g. Organic Cotton T-Shirt",
+            "sku": "e.g. OCTS001"
+        },
+        "validation": {
+            "name_min": "Product name must be at least 3 characters.",
+            "sku_min": "SKU must be at least 3 characters.",
+            "price_min": "Price cannot be less than 0",
+            "stock_int": "Stock must be an integer",
+            "stock_min": "Stock cannot be less than 0"
+        },
+        "buttons": {
+            "cancel": "Cancel",
+            "save_draft": "Save as Draft",
+            "publish": "Publish Product"
+        }
+    },
+    "display": {
+        "in_stock": "In Stock",
+        "category_apparel": "Apparel",
+        "features": {
+            "organic": "100% Organic Cotton",
+            "breathable": "Breathable Fabric",
+            "sustainable": "Sustainable Production",
+            "unisex": "Unisex Fit"
+        },
+        "description": "Experience sustainable comfort with our organic cotton t-shirt. Soft, breathable, and eco-friendly, perfect for daily use. Made from 100% organic cotton.",
+        "select_size": "Select Size",
+        "select_color": "Select Color",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to Cart",
+        "buy_now": "Buy Now"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Store Integration Wizard",
+    "step1_title": "Select Platform",
+    "step2_title": "Enter API Details",
+    "step3_title": "Connection Successful!",
+    "connect_btn": "Connect Store",
+    "connecting": "Connecting...",
+    "success_msg": "Your store has been successfully connected. Products are syncing.",
+    "api_key": "API Key",
+    "api_secret": "API Secret",
+    "shop_name": "Store Name",
+    "instruction_etsy": "Enter the API Key obtained from the Etsy Developer panel.",
+    "instruction_trendyol": "Copy API details from the Trendyol Partner panel."
+}

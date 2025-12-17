@@ -1,0 +1,34 @@
+{
+    "title": "Trendler & Raporlar",
+    "subtitle": "Satış performansınızı ve en çok satan ürünleri analiz edin.",
+    "view_all": "Tümünü Gör",
+    "sales_count": "Satış",
+    "metrics": {
+        "total_sales": "Toplam Ciro",
+        "growth": "Büyüme",
+        "top_channel": "En İyi Kanal",
+        "conversion": "Dönüşüm Oranı"
+    },
+    "best_sellers": {
+        "title": "En Çok Satanlar"
+    },
+    "channel_performance": {
+        "title": "Kanal Performansı"
+    },
+    "products": {
+        "p1": {
+            "name": "Organik Tişört"
+        },
+        "p2": {
+            "name": "Seramik Kupa"
+        },
+        "p3": {
+            "name": "Sanat Baskısı"
+        }
+    },
+    "empty": {
+        "title": "Trend Verisi Yok",
+        "description": "Henüz analiz edilecek yeterli veri toplanmadı. Satış yapmaya başladığınızda burada detaylı raporlar göreceksiniz.",
+        "action": "Kontrol Paneline Dön"
+    }
+}

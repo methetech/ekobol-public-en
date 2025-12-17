@@ -1,0 +1,14 @@
+{
+    "title": "Mağaza Entegrasyon Sihirbazı",
+    "step1_title": "Platform Seçin",
+    "step2_title": "API Bilgilerini Girin",
+    "step3_title": "Bağlantı Başarılı!",
+    "connect_btn": "Mağazayı Bağla",
+    "connecting": "Bağlanıyor...",
+    "success_msg": "Mağazanız başarıyla bağlandı. Ürünleriniz senkronize ediliyor.",
+    "api_key": "API Anahtarı",
+    "api_secret": "API Şifresi (Secret)",
+    "shop_name": "Mağaza Adı",
+    "instruction_etsy": "Etsy Geliştirici panelinden aldığınız API Key'i girin.",
+    "instruction_trendyol": "Trendyol Partner panelinden API bilgilerini kopyalayın."
+}

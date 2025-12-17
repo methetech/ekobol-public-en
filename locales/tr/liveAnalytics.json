@@ -1,0 +1,47 @@
+{
+    "title": "Canlı Analitik",
+    "subtitle": "Gerçek zamanlı satış verilerini ve site etkinliğini izleyin.",
+    "nav": {
+        "overview": "Genel Bakış",
+        "trends": "Eğilimler",
+        "live": "Canlı"
+    },
+    "metrics": {
+        "current_visitors": "Şu Anki Ziyaretçiler",
+        "active_visitors": "Aktif Ziyaretçiler",
+        "live_sales": "Canlı Satışlar",
+        "active_carts": "Aktif Sepetler",
+        "page_views": "Sayfa Görüntüleme",
+        "active_users_desc": "Son 5 dakikadaki aktif kullanıcılar",
+        "last_sale": "Son Satış (Son 1 Saat)",
+        "total_orders": "Toplam 3 sipariş",
+        "most_viewed": "En Çok Görüntülenen Ürün",
+        "viewing_desc": "Şu anda 5 ziyaretçi tarafından görüntüleniyor"
+    },
+    "chart": {
+        "title": "Canlı Trafik Grafiği",
+        "real_time": "Gerçek Zamanlı"
+    },
+    "charts": {
+        "sales_flow": "Canlı Satış Akışı (Son 60 Dakika)",
+        "live_sales_label": "Canlı Satışlar (₺)"
+    },
+    "events": {
+        "title": "Canlı Siparişler ve Etkinlikler",
+        "time": {
+            "now": "Şimdi",
+            "min_ago": "{{count}} dk önce"
+        },
+        "mock": {
+            "order_etsy": "Yeni sipariş <1>#E10024</1> Etsy'den! (₺65.00)",
+            "visitor_product": "<1>Organik Pamuk Tişört</1> ürününe 2 yeni ziyaretçi geldi.",
+            "order_website": "Yeni sipariş <1>#W40079</1> Web Sitesinden! (₺115.00)",
+            "stock_drop": "<1>El Yapımı Seramik Kupa</1> stok seviyesi düştü: 3 kaldı.",
+            "order_trendyol": "Yeni sipariş <1>#T20057</1> Trendyol'dan! (₺15.00)",
+            "visitor_source": "Yeni ziyaretçi kaynağı: Instagram Reklamları.",
+            "visitor_increase": "Toplam aktif ziyaretçi sayısı 10'a yükseldi.",
+            "update_hepsiburada": "Hepsiburada ürün güncellemesi tamamlandı.",
+            "product_name_1": "Organik Pamuk Tişört"
+        }
+    }
+}

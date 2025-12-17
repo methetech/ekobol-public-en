@@ -1,0 +1,47 @@
+{
+    "title": "Financial Overview",
+    "subtitle": "Track your earnings, manage expenses, and view subscription details.",
+    "metrics": {
+        "gross_revenue": "Gross Revenue (Last 30 Days)",
+        "total_expenses": "Total Expenses (Last 30 Days)",
+        "net_profit": "Net Profit (Last 30 Days)",
+        "increase": "%{{value}} increase from last period"
+    },
+    "transactions": {
+        "title": "Recent Transactions",
+        "table": {
+            "date": "Date",
+            "description": "Description",
+            "type": "Type",
+            "amount": "Amount",
+            "income": "Income",
+            "expense": "Expense"
+        },
+        "view_full": "View Full Statement →",
+        "mock": {
+            "etsy_payment": "Etsy Sales Payout",
+            "trendyol_commission": "Trendyol Commission",
+            "website_order": "Website Order #W40078",
+            "marketing_spend": "Marketing Campaign Spend",
+            "partner_fee": "Ekobol Partner Plan Fee"
+        }
+    },
+    "subscription": {
+        "title": "Subscription & Billing",
+        "current_plan": "Current Plan:",
+        "plan_name": "Partner Plan",
+        "plan_details": "50% Profit Share",
+        "change_plan": "Change Plan →",
+        "next_billing": "Next Billing Date:",
+        "estimated_payment": "Estimated Payment:",
+        "update_payment": "Update Payment Method →"
+    },
+    "ai_insights": {
+        "title": "AI Financial Insights",
+        "description": "Our AI analyzes your financial data to provide actionable recommendations.",
+        "insight_1": "Your marketing spend is 2% higher than average for your sales volume. Review campaign efficiency.",
+        "insight_2": "Consider negotiating lower shipping rates; current rates impact net profit by 1.5%.",
+        "insight_3": "Potential tax deductions of <strong>{{amount}}</strong> identified for office supplies this quarter.",
+        "generate_report": "Generate Detailed Report →"
+    }
+}

@@ -1,0 +1,48 @@
+{
+  "about": {
+    "hero": {
+      "title": "About Us",
+      "subtitle": "The story of a team shaping the future of e-commerce."
+    },
+    "mission": {
+      "title": "Mission",
+      "content": "You upload a product photo. The system recognizes the product, writes a title optimized for search engines, creates a professional description, generates images from different angles. Then it distributes this to any marketplace, website, or social media channel you choose. Creating brands from scratch."
+    },
+    "vision": {
+      "title": "Vision",
+      "content": "We want to take AI out of being an expensive tool that only big companies can afford. We envision a world where a small shopkeeper and a giant brand can access the same technology. E-commerce should be about loving your products, not spending hours on manual work."
+    },
+    "team": {
+      "title": "Team",
+      "subtitle": "The names bringing the vision to life.",
+      "members": [
+        {
+          "name": "Mete Avcı",
+          "role": "AI and User Experience",
+          "bio": "Designs all of Ekobol's AI features and user interface. Transforms complex technologies into products that anyone can easily use."
+        },
+        {
+          "name": "Doğa Aydın",
+          "role": "Infrastructure and System Architecture",
+          "bio": "Develops Ekobol's entire backend infrastructure, databases, and server architecture. Ensures the system is fast, reliable, and scalable."
+        }
+      ]
+    },
+    "story": {
+      "title": "Story",
+      "ekobol": {
+        "title": "What Does Ekobol Mean?",
+        "content": "Economy, echo, ecosystem... They all share the root 'eko'. When combined with the Turkish word 'bol' meaning abundance, a beautiful meaning emerged: the place where ecosystems echo and multiply. Managing multiple marketplaces, multiple channels, multiple customers from a single center."
+      },
+      "methetech": {
+        "title": "Me the Tech Philosophy",
+        "content": "Ekobol is the first step of a bigger vision. Me the Tech is the company behind this vision. The 'Me the' pattern was deliberately chosen. Putting the user at the center is the core principle. Me the AI, Me the Future, Me the Commerce... Technology should work for you, not the other way around."
+      }
+    },
+    "cta": {
+      "title": "Curious?",
+      "subtitle": "Try it and see. Start free, grow as you grow.",
+      "button": "Get Started"
+    }
+  }
+}

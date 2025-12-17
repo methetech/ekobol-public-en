@@ -1,0 +1,41 @@
+{
+    "page_title": "Kontrol Paneli",
+    "welcome": "Hoş geldin, Komutan",
+    "subtitle": "İşte imparatorluğunun özeti",
+    "buttons": {
+        "export_data": "Verileri Dışa Aktar",
+        "new_product": "+ Yeni Ürün"
+    },
+    "stats": {
+        "revenue": {
+            "title": "Toplam Gelir",
+            "badge": "+%12"
+        },
+        "orders": {
+            "title": "Toplam Sipariş"
+        },
+        "pending": {
+            "title": "Bekleyen Gönderiler",
+            "badge": "Aksiyon Gerekli"
+        },
+        "low_stock": {
+            "title": "Düşük Stok Ürünleri",
+            "badge": "Kritik"
+        }
+    },
+    "chart": {
+        "title": "Gelir Özeti",
+        "revenue_label": "Gelir",
+        "range_1d": "1G",
+        "range_1w": "1H",
+        "range_1m": "1A",
+        "range_1y": "1Y"
+    },
+    "recent_orders": {
+        "title": "Son Siparişler",
+        "view_all": "Tümünü Gör",
+        "time_ago": "{{count}} dk önce",
+        "status_completed": "Tamamlandı",
+        "status_pending": "Beklemede"
+    }
+}

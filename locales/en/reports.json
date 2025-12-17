@@ -1,0 +1,79 @@
+{
+    "page_title": "Financial Reports",
+    "full_statement": {
+        "title": "Full Financial Statement",
+        "subtitle": "Comprehensive overview of your financial performance",
+        "date_range": "Date Range",
+        "export_pdf": "Export PDF",
+        "export_excel": "Export Excel",
+        "summary": {
+            "title": "Summary",
+            "total_revenue": "Total Revenue",
+            "total_expenses": "Total Expenses",
+            "net_profit": "Net Profit",
+            "profit_margin": "Profit Margin"
+        },
+        "revenue_breakdown": "Revenue Breakdown",
+        "expense_breakdown": "Expense Breakdown",
+        "transactions": {
+            "title": "Recent Transactions",
+            "date": "Date",
+            "description": "Description",
+            "category": "Category",
+            "amount": "Amount",
+            "status": "Status"
+        }
+    },
+    "generate_report": {
+        "title": "Generate Custom Report",
+        "subtitle": "Create detailed reports tailored to your needs",
+        "report_type": "Report Type",
+        "types": {
+            "sales": "Sales Report",
+            "inventory": "Inventory Report",
+            "profit_loss": "Profit & Loss",
+            "tax": "Tax Report",
+            "customer": "Customer Analytics"
+        },
+        "date_range": "Select Date Range",
+        "start_date": "Start Date",
+        "end_date": "End Date",
+        "filters": {
+            "title": "Filters",
+            "marketplace": "Marketplace",
+            "category": "Product Category",
+            "status": "Order Status"
+        },
+        "format": "Export Format",
+        "formats": {
+            "pdf": "PDF Document",
+            "excel": "Excel Spreadsheet",
+            "csv": "CSV File"
+        },
+        "generate_button": "Generate Report",
+        "preview_button": "Preview"
+    },
+    "invoice": {
+        "title": "Invoice",
+        "invoice_number": "Invoice Number",
+        "invoice_date": "Invoice Date",
+        "due_date": "Due Date",
+        "bill_to": "Bill To",
+        "ship_to": "Ship To",
+        "items": {
+            "product": "Product",
+            "quantity": "Quantity",
+            "unit_price": "Unit Price",
+            "total": "Total"
+        },
+        "subtotal": "Subtotal",
+        "tax": "Tax",
+        "shipping": "Shipping",
+        "discount": "Discount",
+        "total": "Total Amount",
+        "payment_terms": "Payment Terms",
+        "notes": "Notes",
+        "print_button": "Print Invoice",
+        "download_button": "Download PDF"
+    }
+}

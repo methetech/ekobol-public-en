@@ -1,0 +1,17 @@
+{
+  "title": "Cookie Policy",
+  "subtitle": "Transparent and Secure Data Processing Standards",
+  "intro": "Ekobol uses limited and purpose-fit cookie technologies to ensure service quality and information security. This policy details the types of cookies used on our website, their purposes, and management.",
+  "what_is_title": "1. What is Cookie Technology?",
+  "what_is_desc": "Cookies are small data files stored on your device or network server via your browser when you visit a website. Cookies allow the website to recognize you, ensure session continuity, and remember your preferences (language, theme, etc.). Cookies can be 'short-term' (session cookies) or 'long-term' (persistent cookies).",
+  "usage_title": "2. Cookie Categories Used",
+  "usage_desc": "Our platform uses only cookies classified as 'Strictly Necessary'. These cookies are part of the system's technical architecture, and site functions will not work if disabled.",
+  "necessary_title": "Technically Mandatory Cookies",
+  "necessary_desc": "These cookies are vital for managing user sessions (authentication), secure login, and preventing CSRF (Cross-Site Request Forgery) attacks. Under GDPR, explicit consent is not required for these cookies as they are technically mandatory for the performance of the service. Examples: Session Tokens (JWT), Security Keys.",
+  "no_tracking_title": "Tracking and Advertising Cookies",
+  "no_tracking_desc": "The Ekobol platform does NOT contain any '3rd Party Marketing Cookies' (Google Ads, Facebook Pixel, Criteo, etc.) that analyze users' browsing habits, perform profiling, or provide personalized ad targeting. Your data is not shared with ad networks.",
+  "management_title": "3. Cookie Management and Preferences",
+  "management_desc": "You can view, delete, or completely block cookies at any time from your browser's settings menu (usually under 'Privacy and Security'). However, if you delete Mandatory Cookies, your session on our platform will end, and your access to the service will be restricted.",
+  "contact_title": "Contact",
+  "contact_desc": "For technical or legal questions regarding this policy, you can reach our Data Security team at privacy@ekobol.com."
+}

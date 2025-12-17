@@ -1,0 +1,12 @@
+{
+    "run_check": "Run Auto-Diagnostic",
+    "running_test": "Checking system configuration via remote agent...",
+    "retry": "Try Fix & Run Again",
+    "system_operational": "System Operational",
+    "api_connection": {
+        "title": "Connection Status Check",
+        "desc": "Don't guess. Click below to confirm your API is actually communicating with the marketplace servers.",
+        "success_msg": "Perfect! We established a secure handshake with the marketplace API.",
+        "error_msg": "Connection Failed. Invalid API Key or IP restriction detected. Please double-check your credentials."
+    }
+}

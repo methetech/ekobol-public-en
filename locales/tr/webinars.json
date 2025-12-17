@@ -1,0 +1,31 @@
+{
+    "title": "Bilginizi Artırın, Büyümenizi Hızlandırın.",
+    "subtitle": "Ekobol'ün özelliklerine ve gelişmiş e-ticaret stratejilerine hakim olmak için talep üzerine webinarlarımızı ve video eğitimlerimizi izleyin.",
+    "watch_now": "Şimdi İzle",
+    "webinars": {
+        "item1": {
+            "title": "Ekobol'e Başlarken: Temel Özellikler",
+            "desc": "Yeni başlayanlar için tasarlanmış bu kapsamlı eğitimle platformumuzun temellerini öğrenin."
+        },
+        "item2": {
+            "title": "YZ Pazarlama ile Satışları Artırın",
+            "desc": "Ekobol'ün YZ destekli pazarlama araçlarıyla kampanyalarınızı nasıl optimize edeceğinizi öğrenin."
+        },
+        "item3": {
+            "title": "Veri Destekli Kararlar: Analitiklere Derin Dalış",
+            "desc": "Birleşik analitik kontrol panelimizden nasıl anlamlı içgörüler çıkaracağınızı öğrenin."
+        },
+        "item4": {
+            "title": "Trendyol ve Etsy Entegrasyonları",
+            "desc": "Pazar yeri entegrasyonlarınızı maksimum verimlilik için nasıl kuracağınızı öğrenin."
+        },
+        "item5": {
+            "title": "Otomatik Envanter ile Stok Yönetimi",
+            "desc": "Ekobol'ün YZ destekli envanter otomasyonu ile stok tükenmelerini nasıl önleyeceğinizi öğrenin."
+        },
+        "item6": {
+            "title": "YZ Görüntü Oluşturucu",
+            "desc": "Ürün fotoğraflarınızı dönüştürmek için YZ görüntü oluşturucuyu nasıl kullanacağınızı keşfedin."
+        }
+    }
+}

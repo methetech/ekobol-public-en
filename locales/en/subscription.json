@@ -1,0 +1,45 @@
+{
+  "subscription": {
+    "title": "Build Your Own Plan.",
+    "description": "Pay only for the tools you need. Select and match features to create the perfect subscription for your business. Save 20% by paying annually.",
+    "monthly": "Monthly",
+    "yearly": "Yearly (2 Months Free)"
+  },
+  "marketplace_tiers": {
+    "title": "Choose Your Marketplace Tier",
+    "description": "Select the number of marketplaces you need to integrate.",
+    "tier1_label": "1 Marketplace",
+    "tier1_price": "$200/month",
+    "tier2_label": "Up to 3 Marketplaces",
+    "tier2_price": "$400/month",
+    "tier3_label": "Up to 5 Marketplaces",
+    "tier3_price": "$800/month"
+  },
+  "ai_features": {
+    "title": "Select Modular Power Packs",
+    "description": "Activate the specific engines your empire requires.",
+    "product_imaging_label": "Product Imaging & Style",
+    "product_imaging_price": "₺400/mo",
+    "smart_marketing_label": "Smart Marketing Engine",
+    "smart_marketing_price": "₺600/mo",
+    "unified_center_label": "Unified Command Center",
+    "unified_center_price": "₺500/mo",
+    "seo_trends_label": "SEO & Market Trends",
+    "seo_trends_price": "₺350/mo",
+    "competitor_spy_label": "Competitor Intelligence Spy",
+    "competitor_spy_price": "₺450/mo",
+    "ai_learning_label": "Autonomous AI Learning",
+    "ai_learning_price": "₺800/mo",
+    "ai_descriptions_label": "AI Description Writer",
+    "ai_descriptions_price": "₺250/mo"
+  },
+  "summary_card": {
+    "title": "Your Custom Plan Summary",
+    "estimated_cost": "Estimated Monthly Cost",
+    "note": "(Excludes transaction fees for Basic/Partner Plans)",
+    "feature1": "Flexible billing, cancel anytime",
+    "feature2": "Pay only for what you use",
+    "feature3": "Scales with your business",
+    "cta_button": "Proceed to Checkout"
+  }
+}

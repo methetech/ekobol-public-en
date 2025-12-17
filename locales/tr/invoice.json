@@ -1,0 +1,37 @@
+{
+    "page_title": "Fatura",
+    "title": "Fatura #INV20250701",
+    "subtitle": "Ödeme detaylarını ve fatura kalemlerini görüntüleyin.",
+    "download_pdf": "PDF İndir",
+    "company_name": "Ekobol Hizmetleri A.Ş.",
+    "invoice_label": "FATURA",
+    "date_label": "Tarih: 1 Temmuz 2025",
+    "billed_to": "FATURA EDİLEN:",
+    "payment_status_label": "ÖDEME DURUMU:",
+    "payment_status_paid": "ÖDENDİ",
+    "payment_date_label": "Ödeme Tarihi: 1 Temmuz 2025",
+    "table": {
+        "description": "Açıklama",
+        "quantity": "Miktar",
+        "unit_price": "Birim Fiyat",
+        "total": "Toplam"
+    },
+    "items": {
+        "partner_plan": "Ekobol Partner Planı (Aylık Abonelik)",
+        "ai_credits": "Ekstra YZ Kredi Paketi (1000 Kredi)"
+    },
+    "summary": {
+        "subtotal": "Ara Toplam:",
+        "tax": "Vergi (%20 KDV):",
+        "grand_total": "Genel Toplam:"
+    },
+    "footer": {
+        "thank_you": "İşbirliğiniz için teşekkür ederiz!",
+        "auto_generated": "Bu fatura otomatik olarak oluşturulmuştur. Herhangi bir sorunuz varsa lütfen destek ekibimizle iletişime geçin."
+    },
+    "demo": {
+        "customer_name": "Ayşe Yılmaz",
+        "customer_email": "ayse.yilmaz@example.com",
+        "customer_company": "Örnek Şirketiniz A.Ş."
+    }
+}

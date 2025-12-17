@@ -1,0 +1,31 @@
+{
+    "title": "Gizlilik Politikası",
+    "last_update": "Son Güncelleme: 17 Aralık 2025",
+    "intro": "Ekobol, e-ticaret işletmeleri için pazaryeri entegrasyonu, satış yönetimi, stok-sipariş yönetimi ve yapay zeka destekli pazarlama araçlarını tek çatı altında sunan bir otomasyon platformudur. Kullanıcılarımızın veri güvenliğini kurumsal bir sorumluluk olarak kabul ediyoruz. Bu politika, KVKK ve GDPR standartlarına uygun veri işleme süreçlerimizin şeffaf bir dökümüdür.",
+    "h1": "1. Veri Toplama Kapsamı",
+    "p1": "Hizmet kalitemizi sürdürmek ve yasal yükümlülüklerimizi yerine getirmek amacıyla aşağıdaki veri kategorilerini işlemekteyiz:",
+    "li1_title": "Kimlik ve İletişim Verileri",
+    "li1_desc": "Kullanıcı kaydı ve doğrulaması için gerekli olan ad, soyad, kurumsal e-posta adresi, telefon numarası ve fatura bilgileri. Bu veriler, sözleşmenin kurulması ve ifası hukuki sebebine dayalı olarak işlenir.",
+    "li2_title": "Operasyonel Entegrasyon Verileri",
+    "li2_desc": "Yetkilendirmeniz dahilinde entegre edilen e-ticaret pazaryerlerinden (Trendyol, Hepsiburada, Amazon vb.) çekilen ürün katalogları, stok durumları ve sipariş verileri. Bu veriler sadece size yönetim paneli hizmeti sunmak amacıyla işlenir ve üçüncü taraflarla paylaşılmaz.",
+    "li3_title": "Teknik İşlem Güvenliği",
+    "li3_desc": "Hizmete erişim sağladığınız IP adresleri, cihaz bilgileri, tarayıcı türü ve oturum kayıtları. Bu veriler, 5651 sayılı kanun gereği ve sistem güvenliğini sağlamak (Siber saldırı tespiti vb.) amacıyla kayıt altına alınır.",
+    "h2": "2. Çerezler ve İzleme Teknolojileri",
+    "p2": "Platformumuz, kullanıcı mahremiyetine saygı duyan bir 'Privacy-First' mimarisi ile tasarlanmıştır. Sadece sistemin teknik olarak çalışabilmesi için zorunlu olan oturum çerezleri kullanılır. Davranışsal analiz yapan, reklam hedeflemesi sağlayan veya sizi başka sitelerde takip eden üçüncü taraf çerezleri (Third-Party Cookies) sistemimizde kullanılmamaktadır. Detaylar için Çerez Politikamızı inceleyiniz.",
+    "h3": "3. Veri İşleme Amaçları",
+    "p3": "Toplanan kişisel verileriniz, şirketimiz tarafından şu meşru amaçlar doğrultusunda işlenmektedir:",
+    "use_list": [
+        "SaaS hizmet sözleşmesinin gerekliliklerinin yerine getirilmesi ve hizmetin kesintisiz sunumu.",
+        "Pazaryeri entegrasyonlarının anlık senkronizasyonu ve veri tutarlılığının sağlanması.",
+        "Ödeme işlemlerinin gerçekleştirilmesi ve faturalandırma süreçlerinin yönetimi.",
+        "Olası teknik sorunların tespiti, hata giderme ve sistem performansının iyileştirilmesi.",
+        "Hukuki uyuşmazlıkların çözümü ve yetkili kamu kurumlarının bilgi taleplerinin karşılanması."
+    ],
+    "h4": "4. Veri Güvenliği ve Altyapı",
+    "p4": "Verileriniz, uluslararası standartlarda güvenliği kanıtlanmış bulut altyapılarında (AWS/Google Cloud - Frankfurt/İrlanda Bölgesi) saklanmaktadır. Veri iletimi sırasında uçtan uca TLS 1.3 şifreleme, durağan haldeyken (At Rest) AES-256 şifreleme standartları uygulanmaktadır. Veritabanı erişimleri sıkı yetkilendirme politikalarına (IAM) tabidir.",
+    "h5": "5. Yasal Haklarınız",
+    "p5": "6698 Sayılı KVKK'nın 11. maddesi ve GDPR hükümleri uyarınca, verilerinizin; işlenip işlenmediğini öğrenme, yanlış ise düzeltilmesini talep etme, işlenme amacı ortadan kalktıysa silinmesini (unutulma hakkı) isteme ve aleyhinize çıkan otomatik analiz sonuçlarına itiraz etme hakkına sahipsiniz.",
+    "h6": "6. Politika Değişiklikleri",
+    "p6": "Şirketimiz, yasal mevzuat veya hizmet altyapısındaki değişikliklere paralel olarak bu politikayı güncelleyebilir. Önemli değişiklikler kayıtlı e-posta adresiniz üzerinden bildirilecektir.",
+    "contact": "Tüm veri güvenliği sorularınız ve hak talepleriniz için Veri Koruma Görevlimize <1>privacy@ekobol.com</1> adresinden ulaşabilirsiniz."
+}

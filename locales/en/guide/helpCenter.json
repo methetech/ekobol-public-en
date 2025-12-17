@@ -1,0 +1,139 @@
+{
+    "title": "How Can We Help You?",
+    "subtitle": "From account management to AI tools, find everything you need to maximize your Ekobol experience.",
+    "search_placeholder": "Ask a question or search keywords (e.g. 'stock automation')",
+    "categories": {
+        "getting_started": "Getting Started",
+        "ai_tools": "AI Tools",
+        "product_inventory": "Product & Inventory",
+        "billing_growth": "Billing & Growth"
+    },
+    "support_badge_v2": "Ekobol Support v2.0",
+    "support_assist_text": "Our support team is ready to assist you anytime.",
+    "ai_solutions": {
+        "api_error_title": "API Connection Issue Detected",
+        "api_error_desc": "It seems like you're having trouble regarding API Keys or connections. Let's run a quick diagnostic test.",
+        "test_connection": "Test Connection",
+        "setup_marketplace_title": "Connect a New Store",
+        "setup_marketplace_desc": "Ready to expand? Follow our interactive guide to connect Trendyol, Etsy, or Amazon.",
+        "start_wizard": "Start Integration",
+        "invoice_title": "Billing & Invoices",
+        "invoice_desc": "Looking for your past receipts? You can find them directly in the Finance dashboard.",
+        "view_invoices": "Go to Invoices"
+    },
+    "guides": {
+        "setup_profile": {
+            "title": "Setting Up Your Profile",
+            "desc": "Take your first steps in Ekobol and configure your store settings."
+        },
+        "dashboard_overview": {
+            "title": "Understanding the Dashboard",
+            "desc": "Learn to manage all your e-commerce operations from one place."
+        },
+        "connect_marketplace": {
+            "title": "Connecting Marketplaces",
+            "desc": "Integrate your accounts from Amazon, Etsy, and more."
+        },
+        "ai_image_gen": {
+            "title": "AI Image Generator",
+            "desc": "Transform your product photos into professional studio quality."
+        },
+        "ai_descriptions": {
+            "title": "Writing Compelling Descriptions",
+            "desc": "Create SEO-friendly product descriptions that drive sales."
+        },
+        "ai_marketing": {
+            "title": "AI Marketing Campaigns",
+            "desc": "Boost visibility with automated ads and social media content."
+        },
+        "ai_pricing": {
+            "title": "Smart Pricing Optimization",
+            "desc": "Analyze competitors and find prices that maximize your profit."
+        },
+        "product_management": {
+            "title": "Adding & Editing Products",
+            "desc": "The fastest and most efficient ways to manage your catalog."
+        },
+        "inventory_automation": {
+            "title": "Inventory Automation",
+            "desc": "Automate stock tracking and say goodbye to 'Out of Stock' issues."
+        },
+        "seo_tools": {
+            "title": "SEO Optimization Tools",
+            "desc": "Get your products to the top of search results."
+        },
+        "bulk_upload": {
+            "title": "Bulk Product Upload",
+            "desc": "Upload, update, or delete hundreds of products at once using CSV files."
+        },
+        "revenue_sharing": {
+            "title": "How Revenue Sharing Works",
+            "desc": "Detailed information about our fair and transparent commission model."
+        },
+        "upgrade_plan": {
+            "title": "Upgrading & Changing Plans",
+            "desc": "Guide to switching to the package that suits your needs."
+        },
+        "invoices": {
+            "title": "Viewing Invoices",
+            "desc": "Review your past payments and invoice details."
+        },
+        "multi_currency": {
+            "title": "Multi-Currency Support",
+            "desc": "Sell globally by accepting payments in multiple currencies."
+        },
+        "return_refund": {
+            "title": "Return & Refund Management",
+            "desc": "Automate returns, exchanges, and refund workflows."
+        },
+        "customer_support": {
+            "title": "Customer Support Tools",
+            "desc": "Manage tickets, live chat, and customer inquiries."
+        },
+        "api_integration": {
+            "title": "API Integration",
+            "desc": "Connect external systems with webhooks and RESTful API."
+        },
+        "mobile_app": {
+            "title": "Mobile App Guide",
+            "desc": "Manage your business on-the-go with iOS/Android app."
+        },
+        "security_privacy": {
+            "title": "Security & Privacy",
+            "desc": "Protect your data with 2FA, encryption, and GDPR compliance."
+        },
+        "generative_design": {
+            "title": "Generative Design Guide",
+            "desc": "Create unique product visuals with AI-powered generative design tools."
+        },
+        "ai_learning": {
+            "title": "AI Learning Guide",
+            "desc": "Discover how our AI learns from your store data to optimize performance."
+        },
+        "smart_ad_optimizer": {
+            "title": "Smart Ad Optimizer",
+            "desc": "Maximize ad ROI with AI-driven budget allocation and targeting."
+        },
+        "unified_center": {
+            "title": "Unified Command Center",
+            "desc": "Manage all your e-commerce operations from a single powerful dashboard."
+        },
+        "competitor_spy": {
+            "title": "Competitor Spy",
+            "desc": "Track competitor pricing, stock levels, and market positioning."
+        },
+        "order_management": {
+            "title": "Order Management Mastery",
+            "desc": "Streamline order processing, fulfillment, and issue resolution workflows."
+        }
+    },
+    "contact_support": "Contact Support Team",
+    "still_need_help": "Still couldn't find what you're looking for?",
+    "popular_topics": "Popular Topics",
+    "articles": {
+        "article1": "How to Make My First Sale?",
+        "article2": "About AI Credits",
+        "article3": "Return Processes",
+        "article4": "Expanding to Global Markets"
+    }
+}

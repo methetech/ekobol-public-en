@@ -1,0 +1,55 @@
+{
+    "page_title": "Ayarlar",
+    "page_subtitle": "Hesabınızı ve tercihlerinizi yönetin",
+    "tabs": {
+        "profile": "Profil",
+        "subscription": "Abonelik",
+        "notifications": "Bildirimler",
+        "security": "Güvenlik"
+    },
+    "profile": {
+        "title": "Profil Bilgileri",
+        "avatar_change": "Değiştir",
+        "full_name": "Ad Soyad",
+        "email": "E-posta Adresi",
+        "phone": "Telefon Numarası",
+        "company": "Şirket Adı",
+        "bio": "Biyografi",
+        "website": "Web Sitesi",
+        "save_button": "Değişiklikleri Kaydet"
+    },
+    "subscription": {
+        "title": "Abonelik ve Faturalama",
+        "current_plan": "Mevcut Plan",
+        "billing_cycle": "Faturalama Dönemi",
+        "next_payment": "Sonraki Ödeme",
+        "payment_method": "Ödeme Yöntemi",
+        "upgrade_button": "Planı Yükselt",
+        "manage_billing": "Faturaları Yönet",
+        "partner_plan": "Partner Planı",
+        "monthly": "Aylık"
+    },
+    "notifications": {
+        "title": "Bildirim Tercihleri",
+        "email_notifications": "E-posta Bildirimleri",
+        "email_description": "Güncellemeleri e-posta ile alın",
+        "push_notifications": "Push Bildirimleri",
+        "push_description": "Tarayıcı push bildirimleri",
+        "marketing": "Pazarlama İletişimi",
+        "marketing_description": "Ürün güncellemeleri ve özel teklifler",
+        "save_button": "Tercihleri Kaydet"
+    },
+    "security": {
+        "title": "Güvenlik Ayarları",
+        "password_section": "Şifre",
+        "current_password": "Mevcut Şifre",
+        "new_password": "Yeni Şifre",
+        "confirm_password": "Yeni Şifreyi Onayla",
+        "change_password_button": "Şifreyi Değiştir",
+        "two_factor": "İki Faktörlü Kimlik Doğrulama",
+        "two_factor_description": "Ekstra güvenlik katmanı ekleyin",
+        "enable_2fa": "2FA'yı Etkinleştir",
+        "sessions": "Aktif Oturumlar",
+        "sessions_description": "Aktif oturumlarınızı yönetin"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "page_title": "Dashboard",
+    "welcome": "Welcome back, Commander",
+    "subtitle": "Here's your empire's overview",
+    "buttons": {
+        "export_data": "Export Data",
+        "new_product": "+ New Product"
+    },
+    "stats": {
+        "revenue": {
+            "title": "Total Revenue",
+            "badge": "+12%"
+        },
+        "orders": {
+            "title": "Total Orders"
+        },
+        "pending": {
+            "title": "Pending Shipments",
+            "badge": "Action Needed"
+        },
+        "low_stock": {
+            "title": "Low Stock Items",
+            "badge": "Critical"
+        }
+    },
+    "chart": {
+        "title": "Revenue Overview",
+        "revenue_label": "Revenue",
+        "range_1d": "1D",
+        "range_1w": "1W",
+        "range_1m": "1M",
+        "range_1y": "1Y"
+    },
+    "recent_orders": {
+        "title": "Recent Orders",
+        "view_all": "View All",
+        "time_ago": "{{count}}m ago",
+        "status_completed": "Completed",
+        "status_pending": "Pending"
+    }
+}
